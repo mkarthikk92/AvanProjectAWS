@@ -1,0 +1,3420 @@
+[
+    {
+        "patient_id": "2a1dd1e2-b372-4d1e-b846-8a436ac6ffbf",
+        "name": "Steven Gillespie",
+        "email": "brandon46@tate-montgomery.com",
+        "age": 74,
+        "registered_at": "2023-03-22T09:31:26",
+        "preferences": {
+            "contact_method": "email",
+            "notifications": {
+                "email": true,
+                "sms": false
+            }
+        },
+        "appointments": [
+            {
+                "appointment_id": "d95a9b22-9096-45ad-bd5d-50ecfdac9771",
+                "appointment_date": "2024-11-20T00:21:10",
+                "doctor_name": "Ryan Chavez",
+                "department": "Neurology",
+                "procedures": [
+                    {
+                        "procedure_id": "d6835333-c0bc-46a1-ae35-68c654236a53",
+                        "procedure_name": "X-Ray",
+                        "cost": 1381.62
+                    },
+                    {
+                        "procedure_id": "5d6a0d93-3b85-4d3c-bc95-8bccca0205fb",
+                        "procedure_name": "MRI",
+                        "cost": 1203.11
+                    }
+                ]
+            },
+            {
+                "appointment_id": "4d274f64-9b72-4cde-b70c-013fa18b6f08",
+                "appointment_date": "2024-06-09T23:51:04",
+                "doctor_name": "Duane Jordan",
+                "department": "Pediatrics",
+                "procedures": [
+                    {
+                        "procedure_id": "72f2c168-677f-4103-9c84-677c35728236",
+                        "procedure_name": "MRI",
+                        "cost": 1473.51
+                    },
+                    {
+                        "procedure_id": "b80f7208-b386-4ba0-ac3e-8c56f99f94bb",
+                        "procedure_name": "Blood Test",
+                        "cost": 634.13
+                    },
+                    {
+                        "procedure_id": "5f11547f-9034-41db-9d79-2edc9c98f36d",
+                        "procedure_name": "MRI",
+                        "cost": 119.59
+                    }
+                ]
+            },
+            {
+                "appointment_id": "be043d12-b4d0-4463-a6c1-309a86dccbb6",
+                "appointment_date": "2024-07-18T04:33:19",
+                "doctor_name": "Andrea Mcintosh",
+                "department": "Neurology",
+                "procedures": [
+                    {
+                        "procedure_id": "f67ae7c4-78f7-4224-b748-80e28c5aa56b",
+                        "procedure_name": "Physical Therapy",
+                        "cost": 1081.27
+                    }
+                ]
+            },
+            {
+                "appointment_id": "277f55ff-06ba-4943-8571-30de83ee2197",
+                "appointment_date": "2024-02-12T19:59:39",
+                "doctor_name": "Elizabeth Mcclure",
+                "department": "Cardiology",
+                "procedures": [
+                    {
+                        "procedure_id": "709b89e4-6046-4261-bfe5-735e7432bf1b",
+                        "procedure_name": "MRI",
+                        "cost": 1613.53
+                    },
+                    {
+                        "procedure_id": "6e9c3bff-9788-4526-8879-9f7dd632cec7",
+                        "procedure_name": "Blood Test",
+                        "cost": 1999.71
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "patient_id": "164a014d-5e52-428e-8f9b-52848cefe3a1",
+        "name": "Charlotte Price",
+        "email": "psmith@smith.net",
+        "age": 73,
+        "registered_at": "2020-07-24T23:41:34",
+        "preferences": {
+            "contact_method": "phone",
+            "notifications": {
+                "email": true,
+                "sms": false
+            }
+        },
+        "appointments": [
+            {
+                "appointment_id": "cc1bbda1-db96-47b9-ab10-f6d5e689a4bb",
+                "appointment_date": "2024-06-27T05:55:07",
+                "doctor_name": "Michael Oconnell",
+                "department": "Neurology",
+                "procedures": [
+                    {
+                        "procedure_id": "9a74c5f0-7d04-4c22-9539-d748872ef717",
+                        "procedure_name": "X-Ray",
+                        "cost": 721.86
+                    },
+                    {
+                        "procedure_id": "529328dc-dea4-4abd-a35d-f1096c81f750",
+                        "procedure_name": "CT Scan",
+                        "cost": 1733.42
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "patient_id": "5e7e5872-0d39-47c4-9840-a8e25f761d7d",
+        "name": "Tiffany Winters",
+        "email": "christensenvictoria@yahoo.com",
+        "age": 38,
+        "registered_at": "2022-09-11T02:11:10",
+        "preferences": {
+            "contact_method": "email",
+            "notifications": {
+                "email": false,
+                "sms": true
+            }
+        },
+        "appointments": [
+            {
+                "appointment_id": "4926f316-2f28-4e39-9e2e-da339c4df303",
+                "appointment_date": "2024-11-22T23:53:22",
+                "doctor_name": "Mr. Benjamin Holloway DDS",
+                "department": "Orthopedics",
+                "procedures": [
+                    {
+                        "procedure_id": "9b60498c-ce3b-40bf-ab1c-52f2235c7555",
+                        "procedure_name": "Blood Test",
+                        "cost": 1476.19
+                    },
+                    {
+                        "procedure_id": "24429ef6-e60e-4b59-a2e1-18bc83b764c2",
+                        "procedure_name": "Physical Therapy",
+                        "cost": 679.69
+                    },
+                    {
+                        "procedure_id": "91c645a2-0096-4a6d-8368-613c257dc257",
+                        "procedure_name": "Blood Test",
+                        "cost": 1618.03
+                    }
+                ]
+            },
+            {
+                "appointment_id": "fd057ea5-4814-4c68-9723-9fedeca25890",
+                "appointment_date": "2024-09-12T14:22:19",
+                "doctor_name": "Robert Riley",
+                "department": "Pediatrics",
+                "procedures": [
+                    {
+                        "procedure_id": "68ef53a9-24d5-489a-a756-e06d9e6cc963",
+                        "procedure_name": "Physical Therapy",
+                        "cost": 437.04
+                    }
+                ]
+            },
+            {
+                "appointment_id": "060b6e82-09a6-47b4-ba03-8730a9a32615",
+                "appointment_date": "2024-09-30T00:51:00",
+                "doctor_name": "Susan Best",
+                "department": "Cardiology",
+                "procedures": [
+                    {
+                        "procedure_id": "9e58c4b7-f57b-4ac6-a403-4ed98b3f81f1",
+                        "procedure_name": "X-Ray",
+                        "cost": 450.19
+                    },
+                    {
+                        "procedure_id": "e0cc573f-9ebf-4dd1-b642-71f672708bd8",
+                        "procedure_name": "X-Ray",
+                        "cost": 1152.3
+                    },
+                    {
+                        "procedure_id": "05e9b5a7-6759-40f2-a7c0-ef48be739075",
+                        "procedure_name": "CT Scan",
+                        "cost": 487.03
+                    }
+                ]
+            },
+            {
+                "appointment_id": "c0ba7ea4-8a80-4461-8dbc-b6934a07b157",
+                "appointment_date": "2024-07-02T04:17:37",
+                "doctor_name": "Colin Mccarty",
+                "department": "Orthopedics",
+                "procedures": [
+                    {
+                        "procedure_id": "83c3cafb-36cd-4bc2-b012-507a632dba12",
+                        "procedure_name": "Blood Test",
+                        "cost": 1020.72
+                    }
+                ]
+            },
+            {
+                "appointment_id": "7e465087-273c-4ab6-8e01-36d7d7d31698",
+                "appointment_date": "2024-04-08T07:59:11",
+                "doctor_name": "Angela Jones",
+                "department": "Orthopedics",
+                "procedures": [
+                    {
+                        "procedure_id": "62082962-86c0-4998-a1c8-03a34d45b068",
+                        "procedure_name": "X-Ray",
+                        "cost": 101.15
+                    },
+                    {
+                        "procedure_id": "dae6ffe5-0a5d-4800-b8e9-3c75f40ee772",
+                        "procedure_name": "CT Scan",
+                        "cost": 256.19
+                    },
+                    {
+                        "procedure_id": "000787d1-2cd8-4226-a0d5-5509be00a89d",
+                        "procedure_name": "Physical Therapy",
+                        "cost": 1980.5
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "patient_id": "d7a1913e-a068-4988-b92a-aceacff1803a",
+        "name": "Joseph Brown",
+        "email": "lindseyrodriguez@gmail.com",
+        "age": 36,
+        "registered_at": "2023-04-22T08:31:19",
+        "preferences": {
+            "contact_method": "email",
+            "notifications": {
+                "email": true,
+                "sms": false
+            }
+        },
+        "appointments": [
+            {
+                "appointment_id": "8a40525f-03d9-445b-9c66-40b1fc56061a",
+                "appointment_date": "2024-06-01T02:53:06",
+                "doctor_name": "Nicholas Dougherty",
+                "department": "Orthopedics",
+                "procedures": [
+                    {
+                        "procedure_id": "e4fdb525-fa4d-4eec-80e4-362565326379",
+                        "procedure_name": "X-Ray",
+                        "cost": 869.65
+                    }
+                ]
+            },
+            {
+                "appointment_id": "0cb14768-ccd0-40f9-bbe3-23c56a96b9c2",
+                "appointment_date": "2024-10-30T02:04:17",
+                "doctor_name": "Tina Morgan",
+                "department": "Orthopedics",
+                "procedures": [
+                    {
+                        "procedure_id": "8db983c3-4677-47d9-8c2a-58293698739c",
+                        "procedure_name": "Physical Therapy",
+                        "cost": 812.25
+                    },
+                    {
+                        "procedure_id": "d089d893-38c4-4f0f-9718-b5013104fd51",
+                        "procedure_name": "Blood Test",
+                        "cost": 254.05
+                    },
+                    {
+                        "procedure_id": "8073303b-88fb-4867-9eda-36fb28d25ac6",
+                        "procedure_name": "MRI",
+                        "cost": 1027.05
+                    }
+                ]
+            },
+            {
+                "appointment_id": "3327cc71-f2da-40ad-9db6-342850aa33d9",
+                "appointment_date": "2024-05-20T07:09:32",
+                "doctor_name": "Jason Ramos",
+                "department": "Neurology",
+                "procedures": [
+                    {
+                        "procedure_id": "91ce07fe-5ec4-4171-889d-243f9eb245d8",
+                        "procedure_name": "MRI",
+                        "cost": 303.4
+                    },
+                    {
+                        "procedure_id": "c13f17d9-be03-40bd-b9e3-a4bf6c5f5711",
+                        "procedure_name": "Physical Therapy",
+                        "cost": 566.86
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "patient_id": "addceca1-2e7f-4b07-8d9a-e398abc6764f",
+        "name": "Christina Daniel",
+        "email": "smithmark@cross.com",
+        "age": 82,
+        "registered_at": "2022-10-21T23:23:33",
+        "preferences": {
+            "contact_method": "phone",
+            "notifications": {
+                "email": true,
+                "sms": true
+            }
+        },
+        "appointments": [
+            {
+                "appointment_id": "b37bfe35-3d6f-4fb3-a8f4-0b0ba3fae2cf",
+                "appointment_date": "2024-06-29T02:21:28",
+                "doctor_name": "Norma Waters",
+                "department": "Neurology",
+                "procedures": [
+                    {
+                        "procedure_id": "bf2facc3-77b0-47ca-9a5a-6e3b86d1dbbd",
+                        "procedure_name": "X-Ray",
+                        "cost": 1434.62
+                    }
+                ]
+            },
+            {
+                "appointment_id": "ca2574c5-a595-4616-ba71-701965b02a9b",
+                "appointment_date": "2024-06-04T21:09:52",
+                "doctor_name": "Elizabeth Oconnor",
+                "department": "Oncology",
+                "procedures": [
+                    {
+                        "procedure_id": "6d50336d-5e7d-412b-baad-843a02bcbf52",
+                        "procedure_name": "MRI",
+                        "cost": 687.24
+                    },
+                    {
+                        "procedure_id": "61674dbd-f93e-4ddb-bd53-7181fa5281b8",
+                        "procedure_name": "Physical Therapy",
+                        "cost": 1472.45
+                    }
+                ]
+            },
+            {
+                "appointment_id": "344f2307-803c-437f-92ce-6b930c36a92c",
+                "appointment_date": "2024-06-03T07:00:51",
+                "doctor_name": "Brandon Williams",
+                "department": "Cardiology",
+                "procedures": [
+                    {
+                        "procedure_id": "0c4e3be8-11ab-48f4-addf-61c4884086e0",
+                        "procedure_name": "CT Scan",
+                        "cost": 1304.03
+                    },
+                    {
+                        "procedure_id": "b1772538-b0f3-46bb-b7cb-71f34b90a327",
+                        "procedure_name": "Blood Test",
+                        "cost": 1974.19
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "patient_id": "db1f00a5-565f-46ca-bb4c-798deb3ad18e",
+        "name": "Beth Glass",
+        "email": "hlopez@ferrell.com",
+        "age": 71,
+        "registered_at": "2024-04-03T16:20:05",
+        "preferences": {
+            "contact_method": "email",
+            "notifications": {
+                "email": true,
+                "sms": true
+            }
+        },
+        "appointments": [
+            {
+                "appointment_id": "15e4895d-c816-4b73-b716-0f2f986ee99d",
+                "appointment_date": "2024-01-30T07:09:14",
+                "doctor_name": "Matthew Matthews",
+                "department": "Cardiology",
+                "procedures": [
+                    {
+                        "procedure_id": "4a440dbf-eb41-4c26-bc14-4adc61066079",
+                        "procedure_name": "Blood Test",
+                        "cost": 696.2
+                    },
+                    {
+                        "procedure_id": "168ac208-8bbc-4c0d-83ab-fbd09004a0d1",
+                        "procedure_name": "MRI",
+                        "cost": 1553.21
+                    },
+                    {
+                        "procedure_id": "87fa53a7-faac-4fce-bf8b-a3f37db20b04",
+                        "procedure_name": "MRI",
+                        "cost": 1429.52
+                    }
+                ]
+            },
+            {
+                "appointment_id": "66b9108e-f72e-4b6d-ae7e-5e4c00704869",
+                "appointment_date": "2024-09-22T20:08:59",
+                "doctor_name": "Morgan Johnson",
+                "department": "Pediatrics",
+                "procedures": [
+                    {
+                        "procedure_id": "0b2d7448-427a-408b-96d8-8a8abf2389a1",
+                        "procedure_name": "MRI",
+                        "cost": 1742.8
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "patient_id": "2ae1a5c6-8959-4820-812d-f79997d350a8",
+        "name": "Sylvia Wilson",
+        "email": "vaguirre@gmail.com",
+        "age": 48,
+        "registered_at": "2020-02-20T15:15:38",
+        "preferences": {
+            "contact_method": "phone",
+            "notifications": {
+                "email": false,
+                "sms": false
+            }
+        },
+        "appointments": [
+            {
+                "appointment_id": "0cc0cb01-1f05-41ab-8c69-6803872d46f1",
+                "appointment_date": "2024-10-27T15:28:52",
+                "doctor_name": "David Dawson",
+                "department": "Neurology",
+                "procedures": [
+                    {
+                        "procedure_id": "ebbab145-bcb6-4965-b5e1-17acefc50ec9",
+                        "procedure_name": "MRI",
+                        "cost": 341.07
+                    },
+                    {
+                        "procedure_id": "a1d5a4dd-400e-421a-bfa5-478e1918a02f",
+                        "procedure_name": "Blood Test",
+                        "cost": 169.8
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "patient_id": "33d7855b-59b8-4952-8a80-56f355eeefba",
+        "name": "Randall Oconnor",
+        "email": "christopherlyons@boyd-barnes.com",
+        "age": 32,
+        "registered_at": "2021-11-24T18:46:23",
+        "preferences": {
+            "contact_method": "phone",
+            "notifications": {
+                "email": false,
+                "sms": true
+            }
+        },
+        "appointments": [
+            {
+                "appointment_id": "9f5c784d-0703-4b5e-91a7-ae020c988cc3",
+                "appointment_date": "2024-09-10T00:29:08",
+                "doctor_name": "Joshua Logan",
+                "department": "Neurology",
+                "procedures": [
+                    {
+                        "procedure_id": "62552d4a-c420-4955-887d-46902abb0631",
+                        "procedure_name": "MRI",
+                        "cost": 1826.54
+                    },
+                    {
+                        "procedure_id": "9ef1a9aa-e9dc-484e-87cd-650fad045371",
+                        "procedure_name": "Physical Therapy",
+                        "cost": 1889.63
+                    },
+                    {
+                        "procedure_id": "c95be9aa-05e9-4403-b671-864998e60e99",
+                        "procedure_name": "Physical Therapy",
+                        "cost": 953.79
+                    }
+                ]
+            },
+            {
+                "appointment_id": "1670643a-ce38-449a-8f07-e30ec425ae0f",
+                "appointment_date": "2024-08-31T07:01:19",
+                "doctor_name": "Amy Beard",
+                "department": "Cardiology",
+                "procedures": [
+                    {
+                        "procedure_id": "7ff10e7e-d9ee-4f6c-ab47-71a54e446736",
+                        "procedure_name": "CT Scan",
+                        "cost": 1331.86
+                    },
+                    {
+                        "procedure_id": "3e6c7469-b6ee-4576-8b43-e01c43f064fc",
+                        "procedure_name": "Physical Therapy",
+                        "cost": 388.59
+                    },
+                    {
+                        "procedure_id": "53ba01ee-11fc-4b47-9dbe-d46ab114b21a",
+                        "procedure_name": "CT Scan",
+                        "cost": 155.23
+                    }
+                ]
+            },
+            {
+                "appointment_id": "9f903562-7f81-4c8d-a756-a18969a04180",
+                "appointment_date": "2024-06-18T19:35:53",
+                "doctor_name": "Andrew Palmer",
+                "department": "Orthopedics",
+                "procedures": [
+                    {
+                        "procedure_id": "79dda1ee-2ddd-494e-b59e-bdeff03ed9d0",
+                        "procedure_name": "Blood Test",
+                        "cost": 503.95
+                    },
+                    {
+                        "procedure_id": "c33fd599-f55c-465d-a112-7b24c23f367e",
+                        "procedure_name": "X-Ray",
+                        "cost": 573.54
+                    },
+                    {
+                        "procedure_id": "04045c51-50bc-47ce-8c41-897108cff2f5",
+                        "procedure_name": "MRI",
+                        "cost": 253.96
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "patient_id": "2f47e2ca-4314-4e17-b20c-666276ec8e52",
+        "name": "Aaron Gallagher",
+        "email": "opruitt@valentine.com",
+        "age": 77,
+        "registered_at": "2023-03-21T21:45:12",
+        "preferences": {
+            "contact_method": "email",
+            "notifications": {
+                "email": false,
+                "sms": false
+            }
+        },
+        "appointments": [
+            {
+                "appointment_id": "f885b801-02bd-40a9-b5b0-652b87aa6a96",
+                "appointment_date": "2024-08-13T11:48:46",
+                "doctor_name": "Christopher Clark",
+                "department": "Oncology",
+                "procedures": [
+                    {
+                        "procedure_id": "8bffc089-8d94-4db4-8025-5ee42ec616a4",
+                        "procedure_name": "MRI",
+                        "cost": 1708.14
+                    }
+                ]
+            },
+            {
+                "appointment_id": "0416bece-25bb-44f1-8dcd-ddf8f647054d",
+                "appointment_date": "2024-02-27T12:10:37",
+                "doctor_name": "Tina Randolph",
+                "department": "Neurology",
+                "procedures": [
+                    {
+                        "procedure_id": "3acede7b-4737-4f43-a9a4-e21daed1a83b",
+                        "procedure_name": "MRI",
+                        "cost": 872.84
+                    },
+                    {
+                        "procedure_id": "3af21df3-f8a3-4fbf-a63f-05a206e235d3",
+                        "procedure_name": "CT Scan",
+                        "cost": 1675.1
+                    },
+                    {
+                        "procedure_id": "6cc659c3-2a27-4f8d-b0d4-107b34298b11",
+                        "procedure_name": "X-Ray",
+                        "cost": 1047.07
+                    }
+                ]
+            },
+            {
+                "appointment_id": "d4a9de95-0c28-45f1-92b2-8f0cc758b744",
+                "appointment_date": "2024-08-18T00:52:17",
+                "doctor_name": "Natasha Hall",
+                "department": "Neurology",
+                "procedures": [
+                    {
+                        "procedure_id": "6b6406be-330d-4926-ba49-66c62b898d97",
+                        "procedure_name": "X-Ray",
+                        "cost": 697.41
+                    },
+                    {
+                        "procedure_id": "dda5e2b6-4ee2-45de-85e9-cf3c04749f34",
+                        "procedure_name": "MRI",
+                        "cost": 740.27
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "patient_id": "b6b3f2ba-abf4-4b80-b454-084164ed990c",
+        "name": "Tanya Horn",
+        "email": "valerielewis@gmail.com",
+        "age": 32,
+        "registered_at": "2020-12-10T13:20:26",
+        "preferences": {
+            "contact_method": "email",
+            "notifications": {
+                "email": true,
+                "sms": false
+            }
+        },
+        "appointments": [
+            {
+                "appointment_id": "532e57fa-57e3-45d4-9d4d-65c853936435",
+                "appointment_date": "2024-02-13T06:49:42",
+                "doctor_name": "Mary Newman PhD",
+                "department": "Pediatrics",
+                "procedures": [
+                    {
+                        "procedure_id": "cf0e67f0-c5ae-44f4-97ab-09c81913c791",
+                        "procedure_name": "Physical Therapy",
+                        "cost": 590.8
+                    }
+                ]
+            },
+            {
+                "appointment_id": "5d2af477-061f-4638-9b77-8b3164b65087",
+                "appointment_date": "2024-03-23T22:05:22",
+                "doctor_name": "Allison King",
+                "department": "Neurology",
+                "procedures": [
+                    {
+                        "procedure_id": "44bebc9b-ca2f-48e0-b278-1aa1224c6f85",
+                        "procedure_name": "Physical Therapy",
+                        "cost": 824.2
+                    }
+                ]
+            },
+            {
+                "appointment_id": "666e29e5-089c-4c05-a251-a91859169a0f",
+                "appointment_date": "2024-02-16T11:01:31",
+                "doctor_name": "Jesse Wells",
+                "department": "Cardiology",
+                "procedures": [
+                    {
+                        "procedure_id": "2a79ddbd-d85b-412f-a92e-fb49f158fb8b",
+                        "procedure_name": "CT Scan",
+                        "cost": 1538.06
+                    },
+                    {
+                        "procedure_id": "c3bf8b07-e45f-4b07-8063-d37c7cbb8e2e",
+                        "procedure_name": "CT Scan",
+                        "cost": 717.24
+                    },
+                    {
+                        "procedure_id": "0fd682bf-d35a-47d7-8905-9800f85363f1",
+                        "procedure_name": "Blood Test",
+                        "cost": 1331.14
+                    }
+                ]
+            },
+            {
+                "appointment_id": "ba8c7f00-879a-41a4-a62a-88a022a76118",
+                "appointment_date": "2024-01-22T01:23:44",
+                "doctor_name": "Manuel West",
+                "department": "Cardiology",
+                "procedures": [
+                    {
+                        "procedure_id": "724bc965-d304-4bc5-8fc8-d27c7822912d",
+                        "procedure_name": "X-Ray",
+                        "cost": 1009.27
+                    },
+                    {
+                        "procedure_id": "21efbefc-8e5d-48f4-909e-cbd35e852726",
+                        "procedure_name": "MRI",
+                        "cost": 1754.69
+                    },
+                    {
+                        "procedure_id": "54177e5d-f007-4533-9bf4-f3b636494798",
+                        "procedure_name": "X-Ray",
+                        "cost": 1283.07
+                    }
+                ]
+            },
+            {
+                "appointment_id": "3f3e9604-91ed-421c-be8b-4ae93ad5a3c0",
+                "appointment_date": "2024-10-17T11:30:22",
+                "doctor_name": "Amber Jones",
+                "department": "Neurology",
+                "procedures": [
+                    {
+                        "procedure_id": "21dba5ab-6b2d-432c-9b4f-f901e97248f1",
+                        "procedure_name": "X-Ray",
+                        "cost": 856.89
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "patient_id": "bc72eb8f-39f1-4925-a55f-c362a14729d6",
+        "name": "William Miller",
+        "email": "hansendawn@eaton.com",
+        "age": 68,
+        "registered_at": "2022-01-01T19:23:38",
+        "preferences": {
+            "contact_method": "email",
+            "notifications": {
+                "email": true,
+                "sms": true
+            }
+        },
+        "appointments": [
+            {
+                "appointment_id": "22b35239-55e4-45b8-8015-48d3648e98c7",
+                "appointment_date": "2024-04-24T14:03:52",
+                "doctor_name": "Alexandria Soto",
+                "department": "Neurology",
+                "procedures": [
+                    {
+                        "procedure_id": "bc645183-d63c-47c3-bfd6-9d6376879811",
+                        "procedure_name": "CT Scan",
+                        "cost": 1991.76
+                    }
+                ]
+            },
+            {
+                "appointment_id": "b9e69863-8e26-447c-9e9f-1b1d0c83c47b",
+                "appointment_date": "2024-09-03T18:11:26",
+                "doctor_name": "Brian Patton",
+                "department": "Cardiology",
+                "procedures": [
+                    {
+                        "procedure_id": "ba09d047-a59b-4e41-9495-78d0ade339b3",
+                        "procedure_name": "Physical Therapy",
+                        "cost": 731.76
+                    },
+                    {
+                        "procedure_id": "3a2b3405-e5d4-4fde-ad90-eb8517191cf9",
+                        "procedure_name": "CT Scan",
+                        "cost": 1351.99
+                    },
+                    {
+                        "procedure_id": "ab1b51ff-236d-40b0-b004-a9029677800e",
+                        "procedure_name": "CT Scan",
+                        "cost": 1143.63
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "patient_id": "6dd434c2-aed8-46f3-8771-365bac1280fa",
+        "name": "Susan Stephenson",
+        "email": "sean73@hill.net",
+        "age": 76,
+        "registered_at": "2023-11-02T02:44:28",
+        "preferences": {
+            "contact_method": "email",
+            "notifications": {
+                "email": false,
+                "sms": true
+            }
+        },
+        "appointments": [
+            {
+                "appointment_id": "bbfa28be-c8c0-478c-bbac-85111a760749",
+                "appointment_date": "2024-03-14T16:32:23",
+                "doctor_name": "Pamela Hoffman",
+                "department": "Orthopedics",
+                "procedures": [
+                    {
+                        "procedure_id": "cd2b359a-fcaa-4fd0-9827-940d4faf0989",
+                        "procedure_name": "X-Ray",
+                        "cost": 1939.49
+                    },
+                    {
+                        "procedure_id": "4190b2d0-993d-4d78-bc6c-0789d21db9dd",
+                        "procedure_name": "Physical Therapy",
+                        "cost": 1031.58
+                    },
+                    {
+                        "procedure_id": "e62b36ca-f439-45d0-91e2-3da4bf3876ef",
+                        "procedure_name": "CT Scan",
+                        "cost": 1618.9
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "patient_id": "99642e45-177e-472e-b87f-dfb78c3b9e4b",
+        "name": "Melissa Kelly",
+        "email": "brownjessica@hotmail.com",
+        "age": 22,
+        "registered_at": "2022-06-13T12:54:02",
+        "preferences": {
+            "contact_method": "phone",
+            "notifications": {
+                "email": false,
+                "sms": false
+            }
+        },
+        "appointments": [
+            {
+                "appointment_id": "59b39368-1835-4ae1-82aa-2afa56df7fc9",
+                "appointment_date": "2024-08-08T22:10:57",
+                "doctor_name": "Pamela Dawson",
+                "department": "Pediatrics",
+                "procedures": [
+                    {
+                        "procedure_id": "07daf2f3-eafe-4e59-9f07-e30a0248bfea",
+                        "procedure_name": "CT Scan",
+                        "cost": 1053.08
+                    },
+                    {
+                        "procedure_id": "b486989c-3801-41ac-87c5-879cca6962df",
+                        "procedure_name": "X-Ray",
+                        "cost": 1620.35
+                    },
+                    {
+                        "procedure_id": "5c253b3e-7796-4b25-9cb3-d373b73646f5",
+                        "procedure_name": "Physical Therapy",
+                        "cost": 1838.38
+                    }
+                ]
+            },
+            {
+                "appointment_id": "122faf1e-6d0f-48c2-bb80-0fa813c2a7ae",
+                "appointment_date": "2024-10-05T18:14:08",
+                "doctor_name": "Maria Ortiz",
+                "department": "Cardiology",
+                "procedures": [
+                    {
+                        "procedure_id": "e5fed256-6800-43c2-bcbc-04c8a9b488b8",
+                        "procedure_name": "MRI",
+                        "cost": 1463.56
+                    },
+                    {
+                        "procedure_id": "0c6f21a5-8b25-46df-99a4-d947b1019833",
+                        "procedure_name": "MRI",
+                        "cost": 795.08
+                    }
+                ]
+            },
+            {
+                "appointment_id": "3191455c-5c50-4cf3-870a-fe11d968c5ce",
+                "appointment_date": "2024-03-11T00:28:29",
+                "doctor_name": "Angelica Rivas",
+                "department": "Oncology",
+                "procedures": [
+                    {
+                        "procedure_id": "847c20b9-d46b-4ff5-bc7a-22003b4daafb",
+                        "procedure_name": "Physical Therapy",
+                        "cost": 1922.28
+                    },
+                    {
+                        "procedure_id": "2ad65911-3da8-46d9-89f7-3976d09dcbbb",
+                        "procedure_name": "Physical Therapy",
+                        "cost": 1275.78
+                    },
+                    {
+                        "procedure_id": "5b638ebc-d624-485e-bb51-38d12cb945a9",
+                        "procedure_name": "CT Scan",
+                        "cost": 471.17
+                    }
+                ]
+            },
+            {
+                "appointment_id": "fe5665c5-ea87-4382-a347-1c5cfd776986",
+                "appointment_date": "2024-01-31T19:54:20",
+                "doctor_name": "Katherine Cross",
+                "department": "Cardiology",
+                "procedures": [
+                    {
+                        "procedure_id": "71ab06e9-dc23-40ec-87b6-5aef5df9178a",
+                        "procedure_name": "MRI",
+                        "cost": 550.95
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "patient_id": "de2b533e-55ca-4736-a523-6e201a254855",
+        "name": "Katelyn Powell",
+        "email": "mpatel@hotmail.com",
+        "age": 77,
+        "registered_at": "2022-02-18T12:54:40",
+        "preferences": {
+            "contact_method": "phone",
+            "notifications": {
+                "email": true,
+                "sms": true
+            }
+        },
+        "appointments": [
+            {
+                "appointment_id": "fde2ecef-c6c4-47e2-85d8-f827335b8c8a",
+                "appointment_date": "2024-06-05T05:03:55",
+                "doctor_name": "Krista Fowler",
+                "department": "Neurology",
+                "procedures": [
+                    {
+                        "procedure_id": "0f901e10-7441-4713-be68-95ed5f68839f",
+                        "procedure_name": "X-Ray",
+                        "cost": 557.18
+                    },
+                    {
+                        "procedure_id": "b58739d2-51f1-4816-a4ed-5bd5aa6dd70f",
+                        "procedure_name": "MRI",
+                        "cost": 222.51
+                    },
+                    {
+                        "procedure_id": "2e73da46-0ee5-45e8-86b5-44547a6a0b1d",
+                        "procedure_name": "MRI",
+                        "cost": 1295.34
+                    }
+                ]
+            },
+            {
+                "appointment_id": "d575e082-f335-458e-a557-e8fbf2767ec4",
+                "appointment_date": "2024-05-29T22:11:52",
+                "doctor_name": "Jason Hall",
+                "department": "Cardiology",
+                "procedures": [
+                    {
+                        "procedure_id": "f715c49d-fd8f-47f8-9183-15e5adfc4379",
+                        "procedure_name": "CT Scan",
+                        "cost": 1232.06
+                    }
+                ]
+            },
+            {
+                "appointment_id": "cb78d396-f836-41b1-9ed7-167f1af49379",
+                "appointment_date": "2024-10-25T19:29:48",
+                "doctor_name": "Brad Howard",
+                "department": "Orthopedics",
+                "procedures": [
+                    {
+                        "procedure_id": "98cd9312-c947-4dcc-b0c9-a79cf617b4f2",
+                        "procedure_name": "CT Scan",
+                        "cost": 1329.56
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "patient_id": "37337032-5a3c-4b28-b8f1-8f25e3fdf847",
+        "name": "Kathleen Garcia",
+        "email": "tylerberg@yahoo.com",
+        "age": 66,
+        "registered_at": "2020-08-15T14:37:21",
+        "preferences": {
+            "contact_method": "email",
+            "notifications": {
+                "email": false,
+                "sms": true
+            }
+        },
+        "appointments": [
+            {
+                "appointment_id": "d1aa349d-1a54-42d3-8d52-d67db8554699",
+                "appointment_date": "2024-09-28T05:06:54",
+                "doctor_name": "Elizabeth Ingram",
+                "department": "Pediatrics",
+                "procedures": [
+                    {
+                        "procedure_id": "ae501bc2-779c-4b19-888b-07b76d045a1f",
+                        "procedure_name": "Blood Test",
+                        "cost": 1386.11
+                    }
+                ]
+            },
+            {
+                "appointment_id": "8fd531a7-6cbb-46aa-b4a2-61b5fe800554",
+                "appointment_date": "2024-04-03T04:38:14",
+                "doctor_name": "Ebony Brown",
+                "department": "Cardiology",
+                "procedures": [
+                    {
+                        "procedure_id": "40ff610b-010a-453c-b3e5-4c72b01ce872",
+                        "procedure_name": "MRI",
+                        "cost": 735.55
+                    },
+                    {
+                        "procedure_id": "c655301d-59bd-4e8d-be71-cebe3d9cb318",
+                        "procedure_name": "MRI",
+                        "cost": 1112.56
+                    }
+                ]
+            },
+            {
+                "appointment_id": "6d5d6a10-0b16-4498-a8dd-37fd01041d63",
+                "appointment_date": "2024-12-03T16:23:48",
+                "doctor_name": "Sandra Sanders",
+                "department": "Orthopedics",
+                "procedures": [
+                    {
+                        "procedure_id": "eb7457bc-8dce-4a5a-97ff-dd0497bb6e23",
+                        "procedure_name": "X-Ray",
+                        "cost": 1271.91
+                    },
+                    {
+                        "procedure_id": "d6c26df1-e360-41aa-ac75-127f0b9c93db",
+                        "procedure_name": "CT Scan",
+                        "cost": 837.6
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "patient_id": "9b63cd12-e318-42ec-b430-298bd40df0ff",
+        "name": "Richard Vazquez",
+        "email": "ugonzalez@gmail.com",
+        "age": 72,
+        "registered_at": "2022-08-16T08:35:57",
+        "preferences": {
+            "contact_method": "phone",
+            "notifications": {
+                "email": true,
+                "sms": false
+            }
+        },
+        "appointments": [
+            {
+                "appointment_id": "980fb5a3-0d1d-4428-bb90-81dd4d5015ab",
+                "appointment_date": "2024-06-30T03:38:14",
+                "doctor_name": "Michael Scott",
+                "department": "Cardiology",
+                "procedures": [
+                    {
+                        "procedure_id": "c807adf3-1e99-4cd5-980e-ef6d532a50e4",
+                        "procedure_name": "Physical Therapy",
+                        "cost": 912.72
+                    }
+                ]
+            },
+            {
+                "appointment_id": "975c55ac-465d-46c9-8bb6-ff677d3ba025",
+                "appointment_date": "2024-12-07T14:13:02",
+                "doctor_name": "Melissa Valencia DDS",
+                "department": "Neurology",
+                "procedures": [
+                    {
+                        "procedure_id": "1010b021-2af7-4642-acc5-efd33f509625",
+                        "procedure_name": "X-Ray",
+                        "cost": 832.94
+                    },
+                    {
+                        "procedure_id": "e23e1e1d-4357-422f-9ffe-a9b60339b88f",
+                        "procedure_name": "MRI",
+                        "cost": 834.81
+                    },
+                    {
+                        "procedure_id": "91d2ec31-c409-4cc6-bd9e-677c9b54e34d",
+                        "procedure_name": "Blood Test",
+                        "cost": 167.55
+                    }
+                ]
+            },
+            {
+                "appointment_id": "453f8616-3d23-491a-9aa1-2c131110dbe1",
+                "appointment_date": "2024-02-19T21:05:09",
+                "doctor_name": "Marissa Hinton",
+                "department": "Cardiology",
+                "procedures": [
+                    {
+                        "procedure_id": "0d1a8681-1d9f-4db0-af3c-5f6e000de063",
+                        "procedure_name": "CT Scan",
+                        "cost": 516.19
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "patient_id": "fe397dcc-033c-4c7d-b9bb-6f3f774ec114",
+        "name": "Julie Bailey",
+        "email": "amanda29@gmail.com",
+        "age": 40,
+        "registered_at": "2021-06-26T20:37:44",
+        "preferences": {
+            "contact_method": "phone",
+            "notifications": {
+                "email": true,
+                "sms": true
+            }
+        },
+        "appointments": [
+            {
+                "appointment_id": "2c390172-fd17-4856-a491-1b69aa17828f",
+                "appointment_date": "2024-02-19T10:51:09",
+                "doctor_name": "Morgan Cherry",
+                "department": "Pediatrics",
+                "procedures": [
+                    {
+                        "procedure_id": "f4208fa6-be3a-4f4e-9c11-85a3839f6c06",
+                        "procedure_name": "CT Scan",
+                        "cost": 833.43
+                    },
+                    {
+                        "procedure_id": "d48bcc75-29ee-4f9a-bd9c-8f399a75ef3c",
+                        "procedure_name": "MRI",
+                        "cost": 103.79
+                    },
+                    {
+                        "procedure_id": "0ebd8786-d817-47e2-8326-7873e896510d",
+                        "procedure_name": "CT Scan",
+                        "cost": 1061.34
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "patient_id": "d411b5f6-6ce6-41e8-a32e-2e8d1416c10b",
+        "name": "Sarah Rodriguez",
+        "email": "sanchezkyle@nelson-valentine.biz",
+        "age": 56,
+        "registered_at": "2024-10-08T14:50:45",
+        "preferences": {
+            "contact_method": "email",
+            "notifications": {
+                "email": true,
+                "sms": false
+            }
+        },
+        "appointments": [
+            {
+                "appointment_id": "2253cda0-2c99-4510-b1e4-72fd9c503239",
+                "appointment_date": "2024-10-13T04:03:42",
+                "doctor_name": "Ryan Kramer",
+                "department": "Orthopedics",
+                "procedures": [
+                    {
+                        "procedure_id": "23ba93a6-f925-4bc3-af36-1e7b7072ee70",
+                        "procedure_name": "CT Scan",
+                        "cost": 276.14
+                    },
+                    {
+                        "procedure_id": "2225b7e5-3aad-492b-8529-3c9cf9fa8679",
+                        "procedure_name": "CT Scan",
+                        "cost": 1233.81
+                    }
+                ]
+            },
+            {
+                "appointment_id": "c44c2d4f-5289-4907-a337-9ddbf3912ce8",
+                "appointment_date": "2024-10-30T18:16:02",
+                "doctor_name": "Benjamin Delacruz",
+                "department": "Orthopedics",
+                "procedures": [
+                    {
+                        "procedure_id": "38404ffc-24f5-4671-b591-31c3cb321014",
+                        "procedure_name": "MRI",
+                        "cost": 1637.73
+                    },
+                    {
+                        "procedure_id": "5f7d097a-cb82-4a22-b4f2-cde8e5226267",
+                        "procedure_name": "CT Scan",
+                        "cost": 1077.04
+                    },
+                    {
+                        "procedure_id": "28dff9af-2a28-4533-9c7e-0dae9692bd81",
+                        "procedure_name": "Blood Test",
+                        "cost": 1593.13
+                    }
+                ]
+            },
+            {
+                "appointment_id": "0b16547f-6979-45d0-b85d-a87659f6573b",
+                "appointment_date": "2024-01-18T03:40:28",
+                "doctor_name": "Antonio Martin",
+                "department": "Oncology",
+                "procedures": [
+                    {
+                        "procedure_id": "67a0675e-1338-4b4f-b13f-d05910d74ade",
+                        "procedure_name": "X-Ray",
+                        "cost": 403.11
+                    },
+                    {
+                        "procedure_id": "2ca23a5e-a015-422b-bbd5-b56aebc19b75",
+                        "procedure_name": "X-Ray",
+                        "cost": 281.94
+                    }
+                ]
+            },
+            {
+                "appointment_id": "673a3047-e29b-43a3-ad2c-cdd5c31d850b",
+                "appointment_date": "2024-01-22T17:39:38",
+                "doctor_name": "Robert Pena",
+                "department": "Pediatrics",
+                "procedures": [
+                    {
+                        "procedure_id": "fe784d68-a471-431f-95e2-13a492a88896",
+                        "procedure_name": "CT Scan",
+                        "cost": 1165.99
+                    },
+                    {
+                        "procedure_id": "2a1b40fd-77f8-44c6-92f2-dce68b467909",
+                        "procedure_name": "MRI",
+                        "cost": 776.94
+                    }
+                ]
+            },
+            {
+                "appointment_id": "dd636563-7baf-405c-8bd2-29ca1613e084",
+                "appointment_date": "2024-01-06T06:16:56",
+                "doctor_name": "Phyllis Morgan",
+                "department": "Oncology",
+                "procedures": [
+                    {
+                        "procedure_id": "fdaa90c5-4994-4c39-ab2e-36d4bc1bf75e",
+                        "procedure_name": "CT Scan",
+                        "cost": 1336.29
+                    },
+                    {
+                        "procedure_id": "eaf6ec41-2b41-4f64-90a5-034e51e521ce",
+                        "procedure_name": "MRI",
+                        "cost": 1996.42
+                    },
+                    {
+                        "procedure_id": "f06e8916-d192-4bf7-876b-63ce1721b306",
+                        "procedure_name": "X-Ray",
+                        "cost": 369.07
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "patient_id": "a446daf2-69c6-4b43-a3c3-4b4fe4041333",
+        "name": "Jaime Navarro",
+        "email": "amatthews@gmail.com",
+        "age": 88,
+        "registered_at": "2023-02-02T21:11:04",
+        "preferences": {
+            "contact_method": "phone",
+            "notifications": {
+                "email": false,
+                "sms": false
+            }
+        },
+        "appointments": [
+            {
+                "appointment_id": "b86e3611-2686-4616-bf01-1feff9908c1c",
+                "appointment_date": "2024-09-10T21:20:49",
+                "doctor_name": "April Brown",
+                "department": "Oncology",
+                "procedures": [
+                    {
+                        "procedure_id": "f57a6b40-fdb9-48a1-8f52-f1ed64682aaf",
+                        "procedure_name": "Blood Test",
+                        "cost": 1148.27
+                    }
+                ]
+            },
+            {
+                "appointment_id": "1ddcb0a5-d77d-4b91-a093-3cda8f9038b1",
+                "appointment_date": "2024-05-12T04:13:41",
+                "doctor_name": "Sheila Harrison",
+                "department": "Oncology",
+                "procedures": [
+                    {
+                        "procedure_id": "541b2981-b033-48a7-afff-a94a5b5d6c09",
+                        "procedure_name": "Blood Test",
+                        "cost": 406.47
+                    },
+                    {
+                        "procedure_id": "47052e2a-c7ff-47e5-8a20-e56b205cac44",
+                        "procedure_name": "CT Scan",
+                        "cost": 1663.14
+                    },
+                    {
+                        "procedure_id": "4ed6a1bd-0aae-4cf7-bb67-c44af9b4d81b",
+                        "procedure_name": "Blood Test",
+                        "cost": 1419.08
+                    }
+                ]
+            },
+            {
+                "appointment_id": "0ee11ad1-171b-4027-ac1c-0d24aa84586d",
+                "appointment_date": "2024-03-12T02:48:28",
+                "doctor_name": "Michael Washington",
+                "department": "Pediatrics",
+                "procedures": [
+                    {
+                        "procedure_id": "9844a7a7-2725-4bfa-8611-9d656fc90d2b",
+                        "procedure_name": "CT Scan",
+                        "cost": 1140.73
+                    },
+                    {
+                        "procedure_id": "6a1a72ea-3b7f-4be9-9bc9-a99e099ad1f7",
+                        "procedure_name": "Physical Therapy",
+                        "cost": 1427.2
+                    }
+                ]
+            },
+            {
+                "appointment_id": "628dc973-f825-4975-ac03-355b87ae68ea",
+                "appointment_date": "2024-12-04T23:07:12",
+                "doctor_name": "Elizabeth Howard",
+                "department": "Orthopedics",
+                "procedures": [
+                    {
+                        "procedure_id": "47540894-8adc-4d44-a967-66c1e6ada3c7",
+                        "procedure_name": "X-Ray",
+                        "cost": 141.72
+                    },
+                    {
+                        "procedure_id": "42135c04-c4b9-4647-8917-4efc5a4f90cb",
+                        "procedure_name": "X-Ray",
+                        "cost": 174.28
+                    },
+                    {
+                        "procedure_id": "6db720be-9bd6-4a6f-8755-96ec4cf2e029",
+                        "procedure_name": "CT Scan",
+                        "cost": 1666.47
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "patient_id": "3ab58bd2-fc9b-41ea-9768-44a4e9946ac8",
+        "name": "Thomas Mendoza",
+        "email": "andrewkim@gmail.com",
+        "age": 79,
+        "registered_at": "2023-07-26T05:42:43",
+        "preferences": {
+            "contact_method": "phone",
+            "notifications": {
+                "email": false,
+                "sms": true
+            }
+        },
+        "appointments": [
+            {
+                "appointment_id": "803854d5-fe48-4d03-9d72-0d089e129bba",
+                "appointment_date": "2024-12-03T19:05:46",
+                "doctor_name": "Danielle Nguyen",
+                "department": "Cardiology",
+                "procedures": [
+                    {
+                        "procedure_id": "c179860a-bc18-4344-bf3b-95bb1e94f417",
+                        "procedure_name": "X-Ray",
+                        "cost": 497.55
+                    },
+                    {
+                        "procedure_id": "43c8f882-a95d-42b9-bf0f-ed8734e208ff",
+                        "procedure_name": "CT Scan",
+                        "cost": 358.82
+                    }
+                ]
+            },
+            {
+                "appointment_id": "d91100c1-e064-47e5-bd59-e5df21c4b567",
+                "appointment_date": "2024-08-23T06:22:41",
+                "doctor_name": "Monica Hodges",
+                "department": "Neurology",
+                "procedures": [
+                    {
+                        "procedure_id": "f3eb26f8-6bc0-4965-9ea4-754abbdeb502",
+                        "procedure_name": "MRI",
+                        "cost": 1307.19
+                    },
+                    {
+                        "procedure_id": "6e7f0686-85bc-41bd-aef5-42ee6eefb0e9",
+                        "procedure_name": "Blood Test",
+                        "cost": 515.94
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "patient_id": "41e27a82-c564-4622-b2c8-55f037c96f72",
+        "name": "Kristen Hernandez",
+        "email": "jenny23@morris.com",
+        "age": 35,
+        "registered_at": "2020-11-26T04:48:12",
+        "preferences": {
+            "contact_method": "email",
+            "notifications": {
+                "email": false,
+                "sms": false
+            }
+        },
+        "appointments": [
+            {
+                "appointment_id": "06f8e0aa-e7e1-469c-9386-530544cae0d4",
+                "appointment_date": "2024-03-05T18:55:11",
+                "doctor_name": "Linda Mayo",
+                "department": "Neurology",
+                "procedures": [
+                    {
+                        "procedure_id": "936e8a61-1ac7-4f20-ac87-dcae00e191d1",
+                        "procedure_name": "MRI",
+                        "cost": 1668.36
+                    },
+                    {
+                        "procedure_id": "7d0fe16d-c7db-44bc-88f6-43e4b9bda211",
+                        "procedure_name": "Blood Test",
+                        "cost": 203.42
+                    }
+                ]
+            },
+            {
+                "appointment_id": "3e2434e1-0349-4ad2-8f20-53f9ed02d11d",
+                "appointment_date": "2024-04-08T04:07:08",
+                "doctor_name": "Brittany Petty",
+                "department": "Oncology",
+                "procedures": [
+                    {
+                        "procedure_id": "ec1b30f8-8e09-4b91-b7fe-7b044c091e68",
+                        "procedure_name": "Blood Test",
+                        "cost": 822.86
+                    }
+                ]
+            },
+            {
+                "appointment_id": "41002c9b-59c8-4ee8-bdb1-5b5626580509",
+                "appointment_date": "2024-02-04T07:18:23",
+                "doctor_name": "Kaitlyn Martinez",
+                "department": "Neurology",
+                "procedures": [
+                    {
+                        "procedure_id": "eadd4f3f-4b7f-4d49-87cb-0622f7ee96d0",
+                        "procedure_name": "MRI",
+                        "cost": 921.33
+                    },
+                    {
+                        "procedure_id": "71d56375-eb41-4780-a5e3-118d84326870",
+                        "procedure_name": "Physical Therapy",
+                        "cost": 1324.42
+                    }
+                ]
+            },
+            {
+                "appointment_id": "c470777f-f3fd-428a-9535-d4f824b846ae",
+                "appointment_date": "2024-02-07T16:27:03",
+                "doctor_name": "Kevin Jones",
+                "department": "Orthopedics",
+                "procedures": [
+                    {
+                        "procedure_id": "4cd5f27d-1c90-477a-8a5c-e719c70f83dc",
+                        "procedure_name": "CT Scan",
+                        "cost": 931.38
+                    },
+                    {
+                        "procedure_id": "c6eeb2a9-101e-462a-af24-e4b4cb967fec",
+                        "procedure_name": "Physical Therapy",
+                        "cost": 1370.05
+                    },
+                    {
+                        "procedure_id": "d3ed7c2c-2cf7-446a-9256-175e92272782",
+                        "procedure_name": "Blood Test",
+                        "cost": 729.43
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "patient_id": "9a36735b-4d85-4685-a87c-2d5811866bea",
+        "name": "Emily Hodges",
+        "email": "hlopez@yahoo.com",
+        "age": 22,
+        "registered_at": "2023-12-26T07:01:42",
+        "preferences": {
+            "contact_method": "email",
+            "notifications": {
+                "email": true,
+                "sms": true
+            }
+        },
+        "appointments": [
+            {
+                "appointment_id": "6119cbb3-454d-47ba-a91c-10e3af79c280",
+                "appointment_date": "2024-01-14T10:45:46",
+                "doctor_name": "Eric Moody",
+                "department": "Orthopedics",
+                "procedures": [
+                    {
+                        "procedure_id": "d24f280c-001c-4b85-8b04-3c8552d6295f",
+                        "procedure_name": "Physical Therapy",
+                        "cost": 1194.19
+                    }
+                ]
+            },
+            {
+                "appointment_id": "fc3d90ad-b9b6-4935-8b7b-8a61c8ebdd3e",
+                "appointment_date": "2024-12-15T16:17:04",
+                "doctor_name": "Suzanne Smith",
+                "department": "Oncology",
+                "procedures": [
+                    {
+                        "procedure_id": "fa2b63aa-fcb5-42e3-9918-03c0ce5bc853",
+                        "procedure_name": "X-Ray",
+                        "cost": 1062.56
+                    },
+                    {
+                        "procedure_id": "f8d3dc63-03f7-424f-856f-ac1e90fd8169",
+                        "procedure_name": "Blood Test",
+                        "cost": 1300.92
+                    },
+                    {
+                        "procedure_id": "db52691f-e7d1-42d3-be59-3b900f35ebf0",
+                        "procedure_name": "Blood Test",
+                        "cost": 416.46
+                    }
+                ]
+            },
+            {
+                "appointment_id": "ff10e282-bec5-44df-87c2-bbebc8d49461",
+                "appointment_date": "2024-10-09T10:39:10",
+                "doctor_name": "Andrew Mcintyre",
+                "department": "Cardiology",
+                "procedures": [
+                    {
+                        "procedure_id": "aa3ce827-ed52-4d1c-8d2e-774dc8c543b5",
+                        "procedure_name": "Blood Test",
+                        "cost": 532.39
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "patient_id": "884f6211-6522-403e-b7f9-ecf4f4213063",
+        "name": "Michael Webb",
+        "email": "jwhite@newman.com",
+        "age": 62,
+        "registered_at": "2023-03-18T03:59:01",
+        "preferences": {
+            "contact_method": "email",
+            "notifications": {
+                "email": false,
+                "sms": false
+            }
+        },
+        "appointments": [
+            {
+                "appointment_id": "1ff361f8-d244-4737-aed3-d94b21e0646e",
+                "appointment_date": "2024-01-25T11:38:07",
+                "doctor_name": "Kyle Anderson",
+                "department": "Oncology",
+                "procedures": [
+                    {
+                        "procedure_id": "f8fa0d25-494b-4617-b6b3-46b87fe54252",
+                        "procedure_name": "Physical Therapy",
+                        "cost": 841.57
+                    },
+                    {
+                        "procedure_id": "0487700c-cbf6-4004-b815-d89df5367353",
+                        "procedure_name": "Physical Therapy",
+                        "cost": 552.74
+                    }
+                ]
+            },
+            {
+                "appointment_id": "cff4e012-edfc-4386-9780-6d48c13e27ef",
+                "appointment_date": "2024-03-30T12:11:49",
+                "doctor_name": "Luke Curtis",
+                "department": "Oncology",
+                "procedures": [
+                    {
+                        "procedure_id": "0d341c8f-5e89-453e-ac5d-debd40fa0f2c",
+                        "procedure_name": "Physical Therapy",
+                        "cost": 786.25
+                    },
+                    {
+                        "procedure_id": "4de49e28-de41-4c5c-9524-8e088d18cdc5",
+                        "procedure_name": "Physical Therapy",
+                        "cost": 894.68
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "patient_id": "4e44b892-099b-4e85-8baf-f3fc23a34e63",
+        "name": "Lisa Martinez",
+        "email": "andrew75@yahoo.com",
+        "age": 24,
+        "registered_at": "2023-03-26T02:10:29",
+        "preferences": {
+            "contact_method": "email",
+            "notifications": {
+                "email": false,
+                "sms": false
+            }
+        },
+        "appointments": [
+            {
+                "appointment_id": "326819fe-4bc7-4a0c-bbec-d5fc0db6b3f5",
+                "appointment_date": "2024-10-21T10:39:15",
+                "doctor_name": "Debra Allen",
+                "department": "Pediatrics",
+                "procedures": [
+                    {
+                        "procedure_id": "482162f4-96a4-4938-af73-1772a08ca894",
+                        "procedure_name": "MRI",
+                        "cost": 1414.84
+                    },
+                    {
+                        "procedure_id": "e6a6e230-97ec-4c71-85f1-9a3f4c66e6fb",
+                        "procedure_name": "MRI",
+                        "cost": 353.42
+                    }
+                ]
+            },
+            {
+                "appointment_id": "564f2660-2925-4911-91b8-f494f3e232f9",
+                "appointment_date": "2024-02-19T08:45:49",
+                "doctor_name": "Joseph Owens DDS",
+                "department": "Neurology",
+                "procedures": [
+                    {
+                        "procedure_id": "dc49744f-6b33-489f-bb70-385175bae4ab",
+                        "procedure_name": "Physical Therapy",
+                        "cost": 200.07
+                    },
+                    {
+                        "procedure_id": "39aebb86-20bb-41eb-ad12-520b34566dae",
+                        "procedure_name": "MRI",
+                        "cost": 454.36
+                    }
+                ]
+            },
+            {
+                "appointment_id": "71611500-f9e6-48d2-a633-c2f7ee02d97a",
+                "appointment_date": "2024-06-25T19:29:28",
+                "doctor_name": "Stanley Jones",
+                "department": "Oncology",
+                "procedures": [
+                    {
+                        "procedure_id": "9ae0e5ce-7ddb-4457-bcaf-42b4ac6fcc17",
+                        "procedure_name": "X-Ray",
+                        "cost": 1442.18
+                    },
+                    {
+                        "procedure_id": "969cd6f8-ee15-48cb-be7a-7c56403046b8",
+                        "procedure_name": "CT Scan",
+                        "cost": 1262.01
+                    },
+                    {
+                        "procedure_id": "dcce8337-f442-42f3-a5a0-86b12eb63463",
+                        "procedure_name": "X-Ray",
+                        "cost": 1719.39
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "patient_id": "ad769406-cff1-4569-bff4-21c6c05f5aa9",
+        "name": "Diane Martin",
+        "email": "vsmith@hotmail.com",
+        "age": 29,
+        "registered_at": "2023-05-16T18:43:43",
+        "preferences": {
+            "contact_method": "phone",
+            "notifications": {
+                "email": false,
+                "sms": false
+            }
+        },
+        "appointments": [
+            {
+                "appointment_id": "4bb79ff9-870a-4df1-952f-48d0380cfb78",
+                "appointment_date": "2024-10-18T08:09:26",
+                "doctor_name": "Ryan Jones",
+                "department": "Orthopedics",
+                "procedures": [
+                    {
+                        "procedure_id": "47ec226b-b09b-4737-8fe3-c6128f765564",
+                        "procedure_name": "Blood Test",
+                        "cost": 782.53
+                    },
+                    {
+                        "procedure_id": "48909156-ce00-43ee-8460-09241889a158",
+                        "procedure_name": "X-Ray",
+                        "cost": 1901.79
+                    }
+                ]
+            },
+            {
+                "appointment_id": "635fe801-0409-4e96-bf2d-179fad378450",
+                "appointment_date": "2024-01-01T08:58:36",
+                "doctor_name": "Lindsey Williams MD",
+                "department": "Pediatrics",
+                "procedures": [
+                    {
+                        "procedure_id": "632c4d8f-def0-4ad7-ba06-ba48c19d3966",
+                        "procedure_name": "X-Ray",
+                        "cost": 410.33
+                    },
+                    {
+                        "procedure_id": "3d3614f9-4bc9-4c48-9414-a6daadc89539",
+                        "procedure_name": "X-Ray",
+                        "cost": 505.88
+                    }
+                ]
+            },
+            {
+                "appointment_id": "5729d9a3-c778-4ef6-abed-a01da6ad5cf7",
+                "appointment_date": "2024-03-23T15:41:39",
+                "doctor_name": "Shane Bowers",
+                "department": "Pediatrics",
+                "procedures": [
+                    {
+                        "procedure_id": "dff4ab20-afbc-4e99-9098-54033a9211c3",
+                        "procedure_name": "CT Scan",
+                        "cost": 794.1
+                    },
+                    {
+                        "procedure_id": "44add29b-67a0-4af2-a0bb-da3afaf663d8",
+                        "procedure_name": "Blood Test",
+                        "cost": 638.5
+                    }
+                ]
+            },
+            {
+                "appointment_id": "0951b926-de9f-4abb-991a-5a803d9cbcd9",
+                "appointment_date": "2024-08-30T04:47:19",
+                "doctor_name": "Carol Evans",
+                "department": "Neurology",
+                "procedures": [
+                    {
+                        "procedure_id": "70a47b2b-3705-436e-801b-f41cf170526b",
+                        "procedure_name": "Physical Therapy",
+                        "cost": 552.6
+                    },
+                    {
+                        "procedure_id": "ffa26615-7598-48f6-b7df-b3d6cdeff2b1",
+                        "procedure_name": "X-Ray",
+                        "cost": 1798.86
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "patient_id": "3d476f10-f081-45ab-bda1-581185dc55c2",
+        "name": "Philip King",
+        "email": "jamiemitchell@yahoo.com",
+        "age": 55,
+        "registered_at": "2021-03-29T00:16:37",
+        "preferences": {
+            "contact_method": "email",
+            "notifications": {
+                "email": true,
+                "sms": false
+            }
+        },
+        "appointments": [
+            {
+                "appointment_id": "b98ac728-6e10-4585-8f43-924b4280ed18",
+                "appointment_date": "2024-05-29T03:46:31",
+                "doctor_name": "Brent Weaver",
+                "department": "Oncology",
+                "procedures": [
+                    {
+                        "procedure_id": "6753b7e2-cc09-4905-b8ff-19c03a8cf47e",
+                        "procedure_name": "X-Ray",
+                        "cost": 1722.13
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "patient_id": "15e04f08-bb6e-46f3-b621-1ce39a15109c",
+        "name": "Omar Gomez",
+        "email": "martinfox@thomas-chung.com",
+        "age": 78,
+        "registered_at": "2021-08-23T16:50:39",
+        "preferences": {
+            "contact_method": "phone",
+            "notifications": {
+                "email": true,
+                "sms": false
+            }
+        },
+        "appointments": [
+            {
+                "appointment_id": "941b8e23-9d22-4cd4-9a06-2c6dc29918bd",
+                "appointment_date": "2024-10-04T03:27:42",
+                "doctor_name": "Kristen Hanson",
+                "department": "Orthopedics",
+                "procedures": [
+                    {
+                        "procedure_id": "2fa3549b-0b39-40a1-9410-2f82fb952704",
+                        "procedure_name": "X-Ray",
+                        "cost": 1114.19
+                    },
+                    {
+                        "procedure_id": "552f9b08-b45e-4ece-9c3b-4e94be3ff247",
+                        "procedure_name": "CT Scan",
+                        "cost": 496.59
+                    }
+                ]
+            },
+            {
+                "appointment_id": "4fde98cd-d711-4b72-8d7e-52adc0023164",
+                "appointment_date": "2024-02-28T09:43:29",
+                "doctor_name": "Amy Phillips",
+                "department": "Pediatrics",
+                "procedures": [
+                    {
+                        "procedure_id": "05a8fe99-e369-40d8-97ad-6a8d251529d2",
+                        "procedure_name": "X-Ray",
+                        "cost": 1878.85
+                    }
+                ]
+            },
+            {
+                "appointment_id": "a06e34fb-7ab7-4897-a909-48344156b654",
+                "appointment_date": "2024-06-12T20:43:05",
+                "doctor_name": "Angela Andrews",
+                "department": "Cardiology",
+                "procedures": [
+                    {
+                        "procedure_id": "0f371387-3a67-4dec-8d4f-17b9aa4eff91",
+                        "procedure_name": "MRI",
+                        "cost": 748.52
+                    },
+                    {
+                        "procedure_id": "5b6ac122-fba9-442f-94bd-4fd1e3c6f237",
+                        "procedure_name": "CT Scan",
+                        "cost": 1515.67
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "patient_id": "85a1f3fa-05ce-4eeb-a3d9-c2991c5f9f32",
+        "name": "Richard Oliver",
+        "email": "williamsmolly@hotmail.com",
+        "age": 68,
+        "registered_at": "2022-03-16T03:01:56",
+        "preferences": {
+            "contact_method": "email",
+            "notifications": {
+                "email": true,
+                "sms": false
+            }
+        },
+        "appointments": [
+            {
+                "appointment_id": "23dfe3c1-62c5-43e5-ba7e-34cc4f833ae4",
+                "appointment_date": "2024-08-08T12:27:01",
+                "doctor_name": "Mr. James Bennett",
+                "department": "Cardiology",
+                "procedures": [
+                    {
+                        "procedure_id": "2b9f9b50-68ec-499b-9572-36f36a793dbc",
+                        "procedure_name": "MRI",
+                        "cost": 445.29
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "patient_id": "de9f300a-d8fa-4523-99fa-b5131759da4a",
+        "name": "Kayla Cook",
+        "email": "nmorse@moore-jones.org",
+        "age": 47,
+        "registered_at": "2022-07-03T14:02:01",
+        "preferences": {
+            "contact_method": "phone",
+            "notifications": {
+                "email": false,
+                "sms": false
+            }
+        },
+        "appointments": [
+            {
+                "appointment_id": "dd03ed43-8fd3-4c25-a5f2-4edb6089ea43",
+                "appointment_date": "2024-05-06T17:02:11",
+                "doctor_name": "Jennifer Wells",
+                "department": "Pediatrics",
+                "procedures": [
+                    {
+                        "procedure_id": "f1d9b95c-964f-48c2-8813-aa5c51b314d3",
+                        "procedure_name": "CT Scan",
+                        "cost": 1473.37
+                    },
+                    {
+                        "procedure_id": "374e3b1e-89fa-4bbd-9560-a7a871ee618c",
+                        "procedure_name": "CT Scan",
+                        "cost": 1103.43
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "patient_id": "39db5d17-be0c-4b59-ad74-a9698ecb32ac",
+        "name": "Wesley Manning",
+        "email": "colleen84@hotmail.com",
+        "age": 81,
+        "registered_at": "2020-09-02T19:04:18",
+        "preferences": {
+            "contact_method": "email",
+            "notifications": {
+                "email": false,
+                "sms": false
+            }
+        },
+        "appointments": [
+            {
+                "appointment_id": "5aa98487-981b-4a80-b6f7-66a29442edab",
+                "appointment_date": "2024-06-22T04:35:53",
+                "doctor_name": "Christopher Robinson",
+                "department": "Oncology",
+                "procedures": [
+                    {
+                        "procedure_id": "dc176622-08c3-4e68-a2e5-31eeebb2cd16",
+                        "procedure_name": "MRI",
+                        "cost": 695.97
+                    }
+                ]
+            },
+            {
+                "appointment_id": "4cddcbd6-74ee-4532-a3e7-b44ad2867498",
+                "appointment_date": "2024-04-02T06:36:39",
+                "doctor_name": "Kim Lee",
+                "department": "Pediatrics",
+                "procedures": [
+                    {
+                        "procedure_id": "2b6dcb2e-5963-483e-8fe3-1f1c3232986f",
+                        "procedure_name": "CT Scan",
+                        "cost": 810.98
+                    },
+                    {
+                        "procedure_id": "91e37cfb-660c-4e5a-a72c-65816f13ccd4",
+                        "procedure_name": "Blood Test",
+                        "cost": 1661.57
+                    },
+                    {
+                        "procedure_id": "a1df67b4-0175-4c4d-a436-ff0d36f1d253",
+                        "procedure_name": "Physical Therapy",
+                        "cost": 517.95
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "patient_id": "fd9d3794-8c2e-4f88-a241-aa852b8ee356",
+        "name": "Brianna Mills DDS",
+        "email": "kvelez@yahoo.com",
+        "age": 76,
+        "registered_at": "2024-04-16T20:26:34",
+        "preferences": {
+            "contact_method": "email",
+            "notifications": {
+                "email": true,
+                "sms": true
+            }
+        },
+        "appointments": [
+            {
+                "appointment_id": "3bae6f07-6753-49ce-85d3-d2d512792183",
+                "appointment_date": "2024-12-17T07:05:27",
+                "doctor_name": "Steven Garcia",
+                "department": "Neurology",
+                "procedures": [
+                    {
+                        "procedure_id": "25b7d54f-2a74-4a16-aef5-5aa4de8a8feb",
+                        "procedure_name": "MRI",
+                        "cost": 641.52
+                    },
+                    {
+                        "procedure_id": "80595c54-0350-4cd8-89e9-087a0ac5b66f",
+                        "procedure_name": "Blood Test",
+                        "cost": 1608.61
+                    },
+                    {
+                        "procedure_id": "4f674e4f-123b-4906-938a-ce8ec7846170",
+                        "procedure_name": "X-Ray",
+                        "cost": 1300.73
+                    }
+                ]
+            },
+            {
+                "appointment_id": "d6d8c608-b183-4caf-9524-d4286902a5f5",
+                "appointment_date": "2024-08-16T00:15:22",
+                "doctor_name": "Linda Berry",
+                "department": "Cardiology",
+                "procedures": [
+                    {
+                        "procedure_id": "57e6cce4-4095-41e9-9d29-c2ef6b8e9447",
+                        "procedure_name": "Blood Test",
+                        "cost": 852.96
+                    }
+                ]
+            },
+            {
+                "appointment_id": "07cc3f86-3263-4b8c-9fd3-16c0c6748c8d",
+                "appointment_date": "2024-10-07T09:36:23",
+                "doctor_name": "Miss Amber Weaver",
+                "department": "Orthopedics",
+                "procedures": [
+                    {
+                        "procedure_id": "5bbfc4fa-1659-4c40-8eeb-fa476c2b70be",
+                        "procedure_name": "CT Scan",
+                        "cost": 1664.14
+                    },
+                    {
+                        "procedure_id": "75069ff8-ecb7-4283-a2b3-e16e7bab5627",
+                        "procedure_name": "Physical Therapy",
+                        "cost": 1569.04
+                    },
+                    {
+                        "procedure_id": "e7e69cc7-acbc-4528-a81f-46ea32971f0f",
+                        "procedure_name": "X-Ray",
+                        "cost": 394.0
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "patient_id": "965caff3-637d-428c-be5b-ab6accf5f237",
+        "name": "Kenneth Horn",
+        "email": "qjackson@yahoo.com",
+        "age": 22,
+        "registered_at": "2023-09-22T19:04:55",
+        "preferences": {
+            "contact_method": "email",
+            "notifications": {
+                "email": false,
+                "sms": false
+            }
+        },
+        "appointments": [
+            {
+                "appointment_id": "888c6b7e-546f-4653-afe5-df5b739a5f7a",
+                "appointment_date": "2024-04-28T07:12:43",
+                "doctor_name": "Andrew Shields",
+                "department": "Orthopedics",
+                "procedures": [
+                    {
+                        "procedure_id": "28b4aac3-8812-445a-934a-887efd933414",
+                        "procedure_name": "X-Ray",
+                        "cost": 165.22
+                    },
+                    {
+                        "procedure_id": "6c95d559-485b-4be7-b116-b7f509448721",
+                        "procedure_name": "MRI",
+                        "cost": 1440.47
+                    },
+                    {
+                        "procedure_id": "e97149dc-18b7-4e95-a8a5-a3896e97c78e",
+                        "procedure_name": "CT Scan",
+                        "cost": 1562.95
+                    }
+                ]
+            },
+            {
+                "appointment_id": "f644d758-543f-4209-874e-8c28922c31ae",
+                "appointment_date": "2024-09-16T00:47:27",
+                "doctor_name": "Jose Pierce",
+                "department": "Orthopedics",
+                "procedures": [
+                    {
+                        "procedure_id": "0cd92d65-6316-49f3-85e0-a0b33c1911fd",
+                        "procedure_name": "MRI",
+                        "cost": 1729.18
+                    },
+                    {
+                        "procedure_id": "ece10442-c7c7-4b06-9d09-cfc2775b32d0",
+                        "procedure_name": "Blood Test",
+                        "cost": 1022.06
+                    },
+                    {
+                        "procedure_id": "24f4b475-c3a0-4f6a-bdd9-71277b26df23",
+                        "procedure_name": "CT Scan",
+                        "cost": 164.3
+                    }
+                ]
+            },
+            {
+                "appointment_id": "666049b6-6684-42d4-ba29-aa47ecfd0925",
+                "appointment_date": "2024-02-04T16:11:49",
+                "doctor_name": "Ashley Harris",
+                "department": "Neurology",
+                "procedures": [
+                    {
+                        "procedure_id": "b31b1e94-442a-48bc-b3f1-a409663593bc",
+                        "procedure_name": "CT Scan",
+                        "cost": 1516.06
+                    }
+                ]
+            },
+            {
+                "appointment_id": "dce78126-85f4-459b-a096-8645237baf59",
+                "appointment_date": "2024-01-19T01:38:33",
+                "doctor_name": "Ian Mercado",
+                "department": "Neurology",
+                "procedures": [
+                    {
+                        "procedure_id": "2b72c5cf-3b84-4325-baf5-3b79f5d78426",
+                        "procedure_name": "MRI",
+                        "cost": 1594.65
+                    },
+                    {
+                        "procedure_id": "e801900e-5296-4078-86a4-47e931ec3e37",
+                        "procedure_name": "MRI",
+                        "cost": 405.42
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "patient_id": "a8c05d98-7e39-46c7-adad-28002480f469",
+        "name": "Ashlee Chang",
+        "email": "anita56@hudson.com",
+        "age": 70,
+        "registered_at": "2023-12-13T03:48:07",
+        "preferences": {
+            "contact_method": "phone",
+            "notifications": {
+                "email": false,
+                "sms": true
+            }
+        },
+        "appointments": [
+            {
+                "appointment_id": "d0be529b-f4be-41d7-88e0-7347dabe7bff",
+                "appointment_date": "2024-03-23T16:16:13",
+                "doctor_name": "Sean Lewis",
+                "department": "Orthopedics",
+                "procedures": [
+                    {
+                        "procedure_id": "ff826b9e-99ea-4cb3-9bd2-cf31d941a43f",
+                        "procedure_name": "MRI",
+                        "cost": 802.62
+                    },
+                    {
+                        "procedure_id": "f89bb21c-4f1c-4d73-ac79-bcbbc88bc273",
+                        "procedure_name": "Blood Test",
+                        "cost": 109.09
+                    }
+                ]
+            },
+            {
+                "appointment_id": "26aa5ed7-7c01-4ab3-b2c4-71f91ab52b8d",
+                "appointment_date": "2024-04-23T09:45:45",
+                "doctor_name": "Michael Acosta",
+                "department": "Oncology",
+                "procedures": [
+                    {
+                        "procedure_id": "c383fc20-9262-4fbe-8898-ab74e969d95a",
+                        "procedure_name": "CT Scan",
+                        "cost": 1282.48
+                    },
+                    {
+                        "procedure_id": "b2167e57-dc0f-4373-adbc-1e0dcb96faed",
+                        "procedure_name": "X-Ray",
+                        "cost": 128.99
+                    }
+                ]
+            },
+            {
+                "appointment_id": "389716a7-5390-4737-b0c7-ffc176989cce",
+                "appointment_date": "2024-02-19T05:21:32",
+                "doctor_name": "Alejandro Smith",
+                "department": "Cardiology",
+                "procedures": [
+                    {
+                        "procedure_id": "898a3111-1119-4eaf-ad49-7f35c9795fa6",
+                        "procedure_name": "X-Ray",
+                        "cost": 883.57
+                    },
+                    {
+                        "procedure_id": "580d48d6-aa00-499c-92dd-b34dcedded6d",
+                        "procedure_name": "X-Ray",
+                        "cost": 437.03
+                    },
+                    {
+                        "procedure_id": "c9515fd3-b17d-4fce-b98b-6336f4d87ca7",
+                        "procedure_name": "CT Scan",
+                        "cost": 1040.62
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "patient_id": "04a2ef5a-8aa4-4bf8-b2cb-26a6ea314514",
+        "name": "Zachary Estes",
+        "email": "lisa84@frederick.net",
+        "age": 52,
+        "registered_at": "2024-06-12T10:47:03",
+        "preferences": {
+            "contact_method": "email",
+            "notifications": {
+                "email": true,
+                "sms": false
+            }
+        },
+        "appointments": [
+            {
+                "appointment_id": "d28c739d-0065-410c-92e9-37616caeb999",
+                "appointment_date": "2024-11-29T23:00:59",
+                "doctor_name": "Jeremiah Barnett",
+                "department": "Cardiology",
+                "procedures": [
+                    {
+                        "procedure_id": "6588b565-abfa-409d-a6f3-792d067afe84",
+                        "procedure_name": "Physical Therapy",
+                        "cost": 1141.47
+                    },
+                    {
+                        "procedure_id": "40248de1-6193-420c-b142-dfe0a5b1387a",
+                        "procedure_name": "MRI",
+                        "cost": 870.61
+                    }
+                ]
+            },
+            {
+                "appointment_id": "66ce963d-26dc-472a-afe6-6d2df1080610",
+                "appointment_date": "2024-07-01T06:30:36",
+                "doctor_name": "Michelle Phillips",
+                "department": "Pediatrics",
+                "procedures": [
+                    {
+                        "procedure_id": "81c8d00f-0c54-47f1-a77d-8d3a35b7eaef",
+                        "procedure_name": "MRI",
+                        "cost": 174.63
+                    },
+                    {
+                        "procedure_id": "dec8fd5e-87fb-4861-9057-9cf20ad3c195",
+                        "procedure_name": "MRI",
+                        "cost": 219.68
+                    }
+                ]
+            },
+            {
+                "appointment_id": "240cd98d-9f84-44cd-a2aa-8d82df6b3f43",
+                "appointment_date": "2024-04-15T09:33:01",
+                "doctor_name": "April Taylor",
+                "department": "Cardiology",
+                "procedures": [
+                    {
+                        "procedure_id": "afd00eb1-b717-460b-af0a-d0d001443096",
+                        "procedure_name": "CT Scan",
+                        "cost": 1346.04
+                    }
+                ]
+            },
+            {
+                "appointment_id": "e67c3680-3c55-4c96-a0ac-7bb317e0bff4",
+                "appointment_date": "2024-09-18T08:24:32",
+                "doctor_name": "Sarah Collins",
+                "department": "Cardiology",
+                "procedures": [
+                    {
+                        "procedure_id": "a8e44b93-be35-4da0-8f10-4ad94aa375c0",
+                        "procedure_name": "X-Ray",
+                        "cost": 870.89
+                    }
+                ]
+            },
+            {
+                "appointment_id": "054a1d8b-bb05-4654-a920-d465d1573885",
+                "appointment_date": "2024-08-30T22:20:41",
+                "doctor_name": "Robert Little",
+                "department": "Cardiology",
+                "procedures": [
+                    {
+                        "procedure_id": "4f612881-086c-4cf5-8577-fafa20c24cb3",
+                        "procedure_name": "Blood Test",
+                        "cost": 1801.84
+                    },
+                    {
+                        "procedure_id": "45ae933d-d160-40ad-b5ff-72580fbf5c98",
+                        "procedure_name": "CT Scan",
+                        "cost": 422.78
+                    },
+                    {
+                        "procedure_id": "2e45e3a9-195f-47f4-948e-67e4e762f9a0",
+                        "procedure_name": "MRI",
+                        "cost": 1596.58
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "patient_id": "15d9161a-72db-4b83-b91b-12baf3e291bf",
+        "name": "Kevin Santana",
+        "email": "ewalters@hotmail.com",
+        "age": 64,
+        "registered_at": "2020-12-25T05:41:00",
+        "preferences": {
+            "contact_method": "email",
+            "notifications": {
+                "email": false,
+                "sms": true
+            }
+        },
+        "appointments": [
+            {
+                "appointment_id": "4dfc09fe-39bb-4d00-8a3e-346b81978c5a",
+                "appointment_date": "2024-05-31T10:23:12",
+                "doctor_name": "Samuel Martinez",
+                "department": "Pediatrics",
+                "procedures": [
+                    {
+                        "procedure_id": "828d282c-1c62-4411-87d5-b7dafdb2ce6a",
+                        "procedure_name": "X-Ray",
+                        "cost": 328.46
+                    },
+                    {
+                        "procedure_id": "0bedfa7a-c268-4857-bed3-850570cd7a95",
+                        "procedure_name": "CT Scan",
+                        "cost": 1287.63
+                    }
+                ]
+            },
+            {
+                "appointment_id": "a07edf1d-bd32-42ba-a6b8-97942041dc7f",
+                "appointment_date": "2024-01-17T03:32:33",
+                "doctor_name": "Keith Miller",
+                "department": "Pediatrics",
+                "procedures": [
+                    {
+                        "procedure_id": "efc501fe-9162-40bd-959e-33460144a0ae",
+                        "procedure_name": "X-Ray",
+                        "cost": 1283.5
+                    },
+                    {
+                        "procedure_id": "6b2f055c-084f-4b9a-beaf-e1b2490c01e4",
+                        "procedure_name": "X-Ray",
+                        "cost": 1492.95
+                    },
+                    {
+                        "procedure_id": "7fe27b08-1526-4f10-9ad8-aa97f2134639",
+                        "procedure_name": "CT Scan",
+                        "cost": 315.04
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "patient_id": "f0853bea-d856-4201-bd53-4a9df5bd4139",
+        "name": "Ashley Rodriguez",
+        "email": "angelaburton@archer.com",
+        "age": 66,
+        "registered_at": "2021-05-21T05:02:35",
+        "preferences": {
+            "contact_method": "email",
+            "notifications": {
+                "email": true,
+                "sms": false
+            }
+        },
+        "appointments": [
+            {
+                "appointment_id": "e71ddf09-e76d-426d-a3ab-73b0fe00e191",
+                "appointment_date": "2024-09-22T01:41:41",
+                "doctor_name": "Karen Alexander",
+                "department": "Pediatrics",
+                "procedures": [
+                    {
+                        "procedure_id": "26f9faf4-603a-4f37-97c9-49421e71d37a",
+                        "procedure_name": "Physical Therapy",
+                        "cost": 557.22
+                    },
+                    {
+                        "procedure_id": "a4ab68c5-9abe-4721-9269-22465f4897b4",
+                        "procedure_name": "MRI",
+                        "cost": 921.17
+                    },
+                    {
+                        "procedure_id": "77c068de-648a-4364-9dcb-cb94d9791cb4",
+                        "procedure_name": "MRI",
+                        "cost": 270.14
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "patient_id": "21c733f1-3fa5-4a90-a68b-dc8317ae3f98",
+        "name": "Stacy Richard",
+        "email": "sandra56@morgan-brown.net",
+        "age": 30,
+        "registered_at": "2020-06-24T21:11:43",
+        "preferences": {
+            "contact_method": "email",
+            "notifications": {
+                "email": true,
+                "sms": false
+            }
+        },
+        "appointments": [
+            {
+                "appointment_id": "8f6d6ae8-9879-45c6-a57d-3b016e8335d6",
+                "appointment_date": "2024-12-28T07:29:59",
+                "doctor_name": "Jack Stafford",
+                "department": "Pediatrics",
+                "procedures": [
+                    {
+                        "procedure_id": "874d3021-d2e9-4e4f-95ac-6a418c2cddd8",
+                        "procedure_name": "X-Ray",
+                        "cost": 868.74
+                    }
+                ]
+            },
+            {
+                "appointment_id": "7080ac62-0b06-458d-855f-6c7c6cf98cf6",
+                "appointment_date": "2024-08-29T21:21:55",
+                "doctor_name": "Stephanie Taylor",
+                "department": "Oncology",
+                "procedures": [
+                    {
+                        "procedure_id": "e8deb711-e0a1-4727-bb16-626caa19621f",
+                        "procedure_name": "MRI",
+                        "cost": 416.98
+                    }
+                ]
+            },
+            {
+                "appointment_id": "ec5af72d-b3c3-4fe1-94da-91361414f3e2",
+                "appointment_date": "2024-03-14T04:57:33",
+                "doctor_name": "Robert Dennis",
+                "department": "Cardiology",
+                "procedures": [
+                    {
+                        "procedure_id": "3c72a2bb-4493-444e-91be-21b7c3212744",
+                        "procedure_name": "Physical Therapy",
+                        "cost": 786.71
+                    }
+                ]
+            },
+            {
+                "appointment_id": "4a0709b2-13a6-4144-9933-96c77ef3e579",
+                "appointment_date": "2024-08-11T02:48:31",
+                "doctor_name": "Marie Wilson",
+                "department": "Oncology",
+                "procedures": [
+                    {
+                        "procedure_id": "22bc6fef-7479-45b3-b2df-8fefbabca2b8",
+                        "procedure_name": "Blood Test",
+                        "cost": 1566.2
+                    },
+                    {
+                        "procedure_id": "d1063774-aa7a-408e-b5de-219ac95dc3d5",
+                        "procedure_name": "X-Ray",
+                        "cost": 673.98
+                    },
+                    {
+                        "procedure_id": "9a672cc5-8896-4d08-a185-323013a3ccd7",
+                        "procedure_name": "CT Scan",
+                        "cost": 1490.98
+                    }
+                ]
+            },
+            {
+                "appointment_id": "1ee07b30-7b0a-4cb7-911a-2ebf18bec7ff",
+                "appointment_date": "2024-10-17T15:44:07",
+                "doctor_name": "Lisa Watts",
+                "department": "Orthopedics",
+                "procedures": [
+                    {
+                        "procedure_id": "3cdf5027-ec6b-4f62-bd55-92dde3cc796d",
+                        "procedure_name": "CT Scan",
+                        "cost": 1647.43
+                    },
+                    {
+                        "procedure_id": "7d2cd134-0cf4-493b-ad18-dc1b7c41df5a",
+                        "procedure_name": "X-Ray",
+                        "cost": 737.7
+                    },
+                    {
+                        "procedure_id": "4a582659-ca85-4127-9d2c-21cc832c54a5",
+                        "procedure_name": "X-Ray",
+                        "cost": 1201.07
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "patient_id": "c458cc18-641a-4142-b559-c58bf558296e",
+        "name": "Jennifer Morris",
+        "email": "burnettautumn@yahoo.com",
+        "age": 40,
+        "registered_at": "2020-11-19T12:53:34",
+        "preferences": {
+            "contact_method": "phone",
+            "notifications": {
+                "email": false,
+                "sms": false
+            }
+        },
+        "appointments": [
+            {
+                "appointment_id": "d26b946c-885e-48df-9b1f-3eee582503b5",
+                "appointment_date": "2024-07-24T14:55:31",
+                "doctor_name": "Mark Smith",
+                "department": "Orthopedics",
+                "procedures": [
+                    {
+                        "procedure_id": "28659ea3-8e5c-4d9b-9dcc-fbadc960e332",
+                        "procedure_name": "Physical Therapy",
+                        "cost": 352.81
+                    }
+                ]
+            },
+            {
+                "appointment_id": "0456ef4d-bf58-4a0e-a9cb-460ce8898988",
+                "appointment_date": "2024-05-15T17:56:05",
+                "doctor_name": "Christina Gomez",
+                "department": "Cardiology",
+                "procedures": [
+                    {
+                        "procedure_id": "b07cabf8-11a0-4a72-82a3-ed9416719aba",
+                        "procedure_name": "Blood Test",
+                        "cost": 111.28
+                    }
+                ]
+            },
+            {
+                "appointment_id": "60614136-0c29-4b97-981d-9ae35c2ee70d",
+                "appointment_date": "2024-02-28T19:56:04",
+                "doctor_name": "Shawn Myers",
+                "department": "Oncology",
+                "procedures": [
+                    {
+                        "procedure_id": "b1a8be82-4a7b-4262-85c8-beca52d65c22",
+                        "procedure_name": "Physical Therapy",
+                        "cost": 940.29
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "patient_id": "3b125d7a-69ed-40ef-b234-533c589b1743",
+        "name": "Amanda Elliott",
+        "email": "susan24@gmail.com",
+        "age": 18,
+        "registered_at": "2021-01-31T22:48:13",
+        "preferences": {
+            "contact_method": "email",
+            "notifications": {
+                "email": true,
+                "sms": false
+            }
+        },
+        "appointments": [
+            {
+                "appointment_id": "ade9c99a-c736-4f02-8813-c6d1ec187e36",
+                "appointment_date": "2024-07-13T17:30:21",
+                "doctor_name": "Eileen Miller",
+                "department": "Cardiology",
+                "procedures": [
+                    {
+                        "procedure_id": "1572027d-cfc8-4731-b290-8033c3bd4502",
+                        "procedure_name": "Physical Therapy",
+                        "cost": 1349.55
+                    },
+                    {
+                        "procedure_id": "b51927b8-37de-40c9-9e68-d681dc37ca5c",
+                        "procedure_name": "CT Scan",
+                        "cost": 688.09
+                    }
+                ]
+            },
+            {
+                "appointment_id": "e648e4b7-84cb-48c3-b10f-d0e5e62263d1",
+                "appointment_date": "2024-06-17T14:50:19",
+                "doctor_name": "Jeanne Robertson MD",
+                "department": "Cardiology",
+                "procedures": [
+                    {
+                        "procedure_id": "365858c9-a3a5-4b81-9902-d677ced3ed86",
+                        "procedure_name": "Blood Test",
+                        "cost": 1576.69
+                    }
+                ]
+            },
+            {
+                "appointment_id": "0a86c410-8f1c-4651-a1e3-c62b981e14a1",
+                "appointment_date": "2024-09-13T19:07:53",
+                "doctor_name": "Anthony Welch",
+                "department": "Orthopedics",
+                "procedures": [
+                    {
+                        "procedure_id": "d1147767-a368-49a2-b82e-58b9ebdb5281",
+                        "procedure_name": "Physical Therapy",
+                        "cost": 1502.27
+                    },
+                    {
+                        "procedure_id": "8c58c79f-5abe-451c-be09-da6b4393ad09",
+                        "procedure_name": "X-Ray",
+                        "cost": 914.91
+                    },
+                    {
+                        "procedure_id": "904c119d-4b38-484f-b06a-0a64607a371a",
+                        "procedure_name": "CT Scan",
+                        "cost": 525.18
+                    }
+                ]
+            },
+            {
+                "appointment_id": "d804aa5a-cf23-4066-8153-a6443f081849",
+                "appointment_date": "2024-09-13T05:52:45",
+                "doctor_name": "Patricia Chavez",
+                "department": "Pediatrics",
+                "procedures": [
+                    {
+                        "procedure_id": "256f09fc-1cb5-4cb9-b1cd-ea28a20b09bb",
+                        "procedure_name": "MRI",
+                        "cost": 693.61
+                    }
+                ]
+            },
+            {
+                "appointment_id": "a41e7221-4570-49b1-a755-b69e9e9b121f",
+                "appointment_date": "2024-02-22T00:29:50",
+                "doctor_name": "Timothy Palmer",
+                "department": "Cardiology",
+                "procedures": [
+                    {
+                        "procedure_id": "dffc0e8b-eef5-4b64-bcb0-018521104d03",
+                        "procedure_name": "Blood Test",
+                        "cost": 1435.8
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "patient_id": "99cc90d2-a7cc-4439-9ff3-a4bed50595f1",
+        "name": "Regina Newton",
+        "email": "johnwalker@hotmail.com",
+        "age": 18,
+        "registered_at": "2022-11-11T09:01:29",
+        "preferences": {
+            "contact_method": "email",
+            "notifications": {
+                "email": false,
+                "sms": true
+            }
+        },
+        "appointments": [
+            {
+                "appointment_id": "d33ae659-a164-42c4-a69a-8c00b47dab90",
+                "appointment_date": "2024-04-23T06:25:26",
+                "doctor_name": "David Barker",
+                "department": "Orthopedics",
+                "procedures": [
+                    {
+                        "procedure_id": "3be44d33-c93a-45e4-a0c1-acb5caf306f0",
+                        "procedure_name": "Physical Therapy",
+                        "cost": 1733.09
+                    }
+                ]
+            },
+            {
+                "appointment_id": "c3d846d7-4632-4c17-aa4a-84c4d07b6cbf",
+                "appointment_date": "2024-06-20T08:11:53",
+                "doctor_name": "Nathan Snyder",
+                "department": "Pediatrics",
+                "procedures": [
+                    {
+                        "procedure_id": "c3e4ef56-a2b5-407d-9654-6f17136bf303",
+                        "procedure_name": "X-Ray",
+                        "cost": 216.6
+                    }
+                ]
+            },
+            {
+                "appointment_id": "0d72aec3-80b3-4a11-85cd-f9e7589e880a",
+                "appointment_date": "2024-04-19T15:56:45",
+                "doctor_name": "John Peters",
+                "department": "Oncology",
+                "procedures": [
+                    {
+                        "procedure_id": "d6e0e366-4d6c-4dfb-a94a-25c75dfedba1",
+                        "procedure_name": "Blood Test",
+                        "cost": 1498.47
+                    },
+                    {
+                        "procedure_id": "4d61d03a-296c-461c-a7ee-57e3015203ee",
+                        "procedure_name": "CT Scan",
+                        "cost": 1067.67
+                    },
+                    {
+                        "procedure_id": "09d3edc3-0809-45fb-a421-345fe958dda7",
+                        "procedure_name": "MRI",
+                        "cost": 523.43
+                    }
+                ]
+            },
+            {
+                "appointment_id": "9532f140-307a-4495-98b3-5f17371a3a5a",
+                "appointment_date": "2024-11-26T08:21:23",
+                "doctor_name": "Tiffany Hill",
+                "department": "Pediatrics",
+                "procedures": [
+                    {
+                        "procedure_id": "05ed8a39-8287-4c11-9762-d018001f1bda",
+                        "procedure_name": "CT Scan",
+                        "cost": 1537.01
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "patient_id": "3daed9fa-5603-4a61-9c21-2f6a44fbd3b0",
+        "name": "Jason Acevedo Jr.",
+        "email": "leonardbrown@yahoo.com",
+        "age": 90,
+        "registered_at": "2022-05-06T19:18:40",
+        "preferences": {
+            "contact_method": "email",
+            "notifications": {
+                "email": true,
+                "sms": false
+            }
+        },
+        "appointments": [
+            {
+                "appointment_id": "b675427e-6326-45dc-920e-4b3a2236cda0",
+                "appointment_date": "2024-10-04T07:21:22",
+                "doctor_name": "Veronica Cross",
+                "department": "Neurology",
+                "procedures": [
+                    {
+                        "procedure_id": "ae7131db-ca86-4fad-8854-87d42f835710",
+                        "procedure_name": "Physical Therapy",
+                        "cost": 1438.26
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "patient_id": "f38c0cee-f562-45e6-b95c-daf8175d7d6b",
+        "name": "Adrian Shepherd",
+        "email": "vroth@gmail.com",
+        "age": 83,
+        "registered_at": "2020-02-05T18:00:31",
+        "preferences": {
+            "contact_method": "phone",
+            "notifications": {
+                "email": false,
+                "sms": false
+            }
+        },
+        "appointments": [
+            {
+                "appointment_id": "39199c3f-ba3a-4040-8e83-677403615f95",
+                "appointment_date": "2024-08-22T23:04:53",
+                "doctor_name": "Jodi Lee",
+                "department": "Orthopedics",
+                "procedures": [
+                    {
+                        "procedure_id": "5508ee14-b1f1-4331-9417-51eb1ba1a28d",
+                        "procedure_name": "CT Scan",
+                        "cost": 294.2
+                    }
+                ]
+            },
+            {
+                "appointment_id": "0ab4f87b-56b5-421c-afd0-e2093cff7aa6",
+                "appointment_date": "2024-08-12T14:29:24",
+                "doctor_name": "Tyler Walker",
+                "department": "Oncology",
+                "procedures": [
+                    {
+                        "procedure_id": "59e53176-a9ee-4e0c-b787-3f39f963e612",
+                        "procedure_name": "X-Ray",
+                        "cost": 794.52
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "patient_id": "06e9c064-a90e-4c95-89c5-5cd195a113d5",
+        "name": "Mark Mcgee",
+        "email": "mboyd@gmail.com",
+        "age": 23,
+        "registered_at": "2024-05-25T02:13:07",
+        "preferences": {
+            "contact_method": "phone",
+            "notifications": {
+                "email": true,
+                "sms": false
+            }
+        },
+        "appointments": [
+            {
+                "appointment_id": "5ffb1e21-0d62-4b27-933d-60f39ce5d104",
+                "appointment_date": "2024-03-12T07:36:39",
+                "doctor_name": "Casey Jones",
+                "department": "Cardiology",
+                "procedures": [
+                    {
+                        "procedure_id": "d99f4e13-b5e3-41a8-a1c3-915afd16a3b3",
+                        "procedure_name": "CT Scan",
+                        "cost": 154.13
+                    },
+                    {
+                        "procedure_id": "bf73d767-4345-461d-9a73-d864669191e8",
+                        "procedure_name": "Blood Test",
+                        "cost": 779.78
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "patient_id": "af647500-0a88-4495-a76f-35ee2c0ecc90",
+        "name": "Nancy Garrett",
+        "email": "barellano@johnson.info",
+        "age": 71,
+        "registered_at": "2022-04-04T23:13:48",
+        "preferences": {
+            "contact_method": "email",
+            "notifications": {
+                "email": true,
+                "sms": false
+            }
+        },
+        "appointments": [
+            {
+                "appointment_id": "8730758f-0840-4d04-8d36-916f15167267",
+                "appointment_date": "2024-09-12T14:19:57",
+                "doctor_name": "Shaun Miller",
+                "department": "Pediatrics",
+                "procedures": [
+                    {
+                        "procedure_id": "7e345325-f635-45c9-89de-d8244f23ffaa",
+                        "procedure_name": "CT Scan",
+                        "cost": 1327.82
+                    },
+                    {
+                        "procedure_id": "5909fd75-1c9a-4e12-aa4a-86b228b4a559",
+                        "procedure_name": "Physical Therapy",
+                        "cost": 1956.37
+                    },
+                    {
+                        "procedure_id": "41f93d7f-1936-4109-8e89-b7935f52b84e",
+                        "procedure_name": "X-Ray",
+                        "cost": 767.16
+                    }
+                ]
+            },
+            {
+                "appointment_id": "0890ee9c-41f9-4f81-9523-9530122b8d20",
+                "appointment_date": "2024-09-06T11:33:39",
+                "doctor_name": "Denise Fisher DDS",
+                "department": "Orthopedics",
+                "procedures": [
+                    {
+                        "procedure_id": "2cb1dafb-61b0-49d0-b09d-fdbc5a4a841c",
+                        "procedure_name": "CT Scan",
+                        "cost": 1537.77
+                    },
+                    {
+                        "procedure_id": "8d505dee-d7b2-4592-b64b-eaebce88d36d",
+                        "procedure_name": "CT Scan",
+                        "cost": 1964.3
+                    }
+                ]
+            },
+            {
+                "appointment_id": "b36a26d0-0bc2-40d8-93e8-6989cd42021e",
+                "appointment_date": "2024-10-17T14:40:29",
+                "doctor_name": "Melissa Nichols",
+                "department": "Orthopedics",
+                "procedures": [
+                    {
+                        "procedure_id": "46343971-0bb3-4037-9bfd-f9ef6279b7f2",
+                        "procedure_name": "CT Scan",
+                        "cost": 1108.5
+                    },
+                    {
+                        "procedure_id": "0542b2e4-a8af-492e-8be2-8b1571244601",
+                        "procedure_name": "X-Ray",
+                        "cost": 1490.1
+                    }
+                ]
+            },
+            {
+                "appointment_id": "58edfa90-1677-45dc-bdfe-5c45999e86bb",
+                "appointment_date": "2024-02-06T23:37:00",
+                "doctor_name": "Daniel Meza",
+                "department": "Oncology",
+                "procedures": [
+                    {
+                        "procedure_id": "9782349d-ad93-478f-b932-1221f61c96c3",
+                        "procedure_name": "CT Scan",
+                        "cost": 1679.03
+                    },
+                    {
+                        "procedure_id": "b0f891ba-313d-46b2-a525-543dfe7458ee",
+                        "procedure_name": "Blood Test",
+                        "cost": 334.4
+                    },
+                    {
+                        "procedure_id": "67c9b062-9a71-4f1a-aba3-e1432f17fc7d",
+                        "procedure_name": "CT Scan",
+                        "cost": 925.23
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "patient_id": "5abaab82-5d7d-45e6-9ac0-c293d5ceb603",
+        "name": "Blake Woods",
+        "email": "alexisvaldez@anderson-jenkins.com",
+        "age": 29,
+        "registered_at": "2021-12-30T14:41:35",
+        "preferences": {
+            "contact_method": "email",
+            "notifications": {
+                "email": true,
+                "sms": true
+            }
+        },
+        "appointments": [
+            {
+                "appointment_id": "32399b2a-4965-4337-8efa-da32b5ab9d95",
+                "appointment_date": "2024-12-25T20:52:52",
+                "doctor_name": "Christina Quinn",
+                "department": "Oncology",
+                "procedures": [
+                    {
+                        "procedure_id": "11956eb2-7d85-438b-83c8-924fdc1c9937",
+                        "procedure_name": "Physical Therapy",
+                        "cost": 1095.42
+                    }
+                ]
+            },
+            {
+                "appointment_id": "e82db6b9-cde4-47c9-8378-18ad6bc46630",
+                "appointment_date": "2024-08-18T07:54:37",
+                "doctor_name": "Adam Sutton",
+                "department": "Cardiology",
+                "procedures": [
+                    {
+                        "procedure_id": "726c066a-02d7-4c61-a627-30f1a89d9e63",
+                        "procedure_name": "Blood Test",
+                        "cost": 636.12
+                    }
+                ]
+            },
+            {
+                "appointment_id": "d18cc026-adf2-4276-96b1-b21f300cdd23",
+                "appointment_date": "2024-06-30T04:55:41",
+                "doctor_name": "Jonathan Johnson",
+                "department": "Oncology",
+                "procedures": [
+                    {
+                        "procedure_id": "46561908-5c4d-4bf2-83f6-a828e9dcf6ff",
+                        "procedure_name": "CT Scan",
+                        "cost": 872.23
+                    }
+                ]
+            },
+            {
+                "appointment_id": "e8170219-a06f-4659-b97b-bf239555c290",
+                "appointment_date": "2024-07-02T16:03:13",
+                "doctor_name": "Alex Tran",
+                "department": "Neurology",
+                "procedures": [
+                    {
+                        "procedure_id": "0c3109e6-19ab-44d2-b738-38499eaf329e",
+                        "procedure_name": "Blood Test",
+                        "cost": 577.12
+                    },
+                    {
+                        "procedure_id": "76a2c26f-3fbe-4585-8046-fb3723cb270e",
+                        "procedure_name": "Physical Therapy",
+                        "cost": 1364.72
+                    },
+                    {
+                        "procedure_id": "1c25e96a-7c09-45b5-8455-c4efe2e0bb8e",
+                        "procedure_name": "X-Ray",
+                        "cost": 367.78
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "patient_id": "dfde7fa6-2cd5-41df-8831-6d591d653023",
+        "name": "James Meza",
+        "email": "fwheeler@yahoo.com",
+        "age": 80,
+        "registered_at": "2024-10-27T19:02:23",
+        "preferences": {
+            "contact_method": "phone",
+            "notifications": {
+                "email": true,
+                "sms": true
+            }
+        },
+        "appointments": [
+            {
+                "appointment_id": "d09d7bb3-78ab-4344-af71-a71473765c6b",
+                "appointment_date": "2024-07-30T23:14:03",
+                "doctor_name": "Debra Spencer",
+                "department": "Neurology",
+                "procedures": [
+                    {
+                        "procedure_id": "34c3f2ae-c62d-4149-834c-8fd91ace2131",
+                        "procedure_name": "CT Scan",
+                        "cost": 673.19
+                    },
+                    {
+                        "procedure_id": "421118bb-1e7f-42a1-9014-402ddd32ae22",
+                        "procedure_name": "MRI",
+                        "cost": 628.61
+                    },
+                    {
+                        "procedure_id": "83974217-551b-46b3-b947-8ae1ce8fee8c",
+                        "procedure_name": "CT Scan",
+                        "cost": 1505.56
+                    }
+                ]
+            },
+            {
+                "appointment_id": "ee9c3cbe-b88e-4e33-aa48-40c8ce9525e1",
+                "appointment_date": "2024-11-18T07:49:00",
+                "doctor_name": "Michael Warren",
+                "department": "Oncology",
+                "procedures": [
+                    {
+                        "procedure_id": "41a275d6-e24f-4d8f-825f-a21a65f83a8e",
+                        "procedure_name": "Physical Therapy",
+                        "cost": 1334.26
+                    },
+                    {
+                        "procedure_id": "86b7e69f-ab74-405b-9beb-6cf2a4cccb56",
+                        "procedure_name": "CT Scan",
+                        "cost": 1724.34
+                    }
+                ]
+            },
+            {
+                "appointment_id": "638e494b-3eb3-4822-aad9-e130cb6f3f31",
+                "appointment_date": "2024-04-07T10:31:16",
+                "doctor_name": "Julia Walls",
+                "department": "Cardiology",
+                "procedures": [
+                    {
+                        "procedure_id": "1593542d-d211-4e97-b82d-85c0e2a1e5e1",
+                        "procedure_name": "Physical Therapy",
+                        "cost": 1196.5
+                    },
+                    {
+                        "procedure_id": "36e6cb70-14ba-4d78-aae7-631c75c6fdc3",
+                        "procedure_name": "Physical Therapy",
+                        "cost": 1608.53
+                    }
+                ]
+            },
+            {
+                "appointment_id": "7f23945a-c403-4a1a-bb6f-35b2e4fe2db3",
+                "appointment_date": "2024-04-12T14:16:25",
+                "doctor_name": "Mr. John Johnson",
+                "department": "Cardiology",
+                "procedures": [
+                    {
+                        "procedure_id": "613bcd48-9262-4eef-b49c-5a587f9a4a69",
+                        "procedure_name": "Physical Therapy",
+                        "cost": 1143.76
+                    },
+                    {
+                        "procedure_id": "63305c4e-a2a1-4160-b9d8-5ed5705c3dbf",
+                        "procedure_name": "Blood Test",
+                        "cost": 1464.21
+                    }
+                ]
+            },
+            {
+                "appointment_id": "fa6c3bc1-93f2-4f70-b120-0782b61f59a6",
+                "appointment_date": "2024-09-02T08:41:58",
+                "doctor_name": "Tyler Vargas",
+                "department": "Orthopedics",
+                "procedures": [
+                    {
+                        "procedure_id": "2dfe37bc-99ba-4a90-b8a8-0ef2a8824005",
+                        "procedure_name": "CT Scan",
+                        "cost": 867.84
+                    },
+                    {
+                        "procedure_id": "b0cfc3ce-2bdc-421b-87d2-eb5ef4608785",
+                        "procedure_name": "Physical Therapy",
+                        "cost": 858.42
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "patient_id": "2b3457cc-d02f-44dc-a808-4126e5b12213",
+        "name": "Monica Stone",
+        "email": "laurengregory@alvarez.com",
+        "age": 82,
+        "registered_at": "2023-04-23T06:00:19",
+        "preferences": {
+            "contact_method": "email",
+            "notifications": {
+                "email": false,
+                "sms": true
+            }
+        },
+        "appointments": [
+            {
+                "appointment_id": "ad919a55-1f82-431f-87ce-52d9fb24b0ff",
+                "appointment_date": "2024-04-19T11:28:02",
+                "doctor_name": "Denise Young",
+                "department": "Orthopedics",
+                "procedures": [
+                    {
+                        "procedure_id": "6b6e5a2c-fbd5-4c1f-a005-5fe53a84c5b7",
+                        "procedure_name": "Physical Therapy",
+                        "cost": 229.63
+                    }
+                ]
+            },
+            {
+                "appointment_id": "89d0cdd2-f51b-4bff-9e41-5c55dd12c3fb",
+                "appointment_date": "2024-02-05T14:39:46",
+                "doctor_name": "Cheyenne Kramer",
+                "department": "Cardiology",
+                "procedures": [
+                    {
+                        "procedure_id": "8d1f98b0-bf99-4707-b2df-55964951e40b",
+                        "procedure_name": "Blood Test",
+                        "cost": 1491.74
+                    },
+                    {
+                        "procedure_id": "8db0ee47-6634-4860-b625-490cdd121ed3",
+                        "procedure_name": "CT Scan",
+                        "cost": 545.46
+                    }
+                ]
+            },
+            {
+                "appointment_id": "9fa561c2-a4a2-4d36-bead-d13e689387f5",
+                "appointment_date": "2024-10-28T10:29:56",
+                "doctor_name": "Amber Reynolds",
+                "department": "Cardiology",
+                "procedures": [
+                    {
+                        "procedure_id": "829deed4-d845-4f3b-b326-64e925b382dd",
+                        "procedure_name": "Physical Therapy",
+                        "cost": 1915.9
+                    },
+                    {
+                        "procedure_id": "59af5f4c-459c-44e3-bd13-7dcc7b8a5440",
+                        "procedure_name": "CT Scan",
+                        "cost": 1304.91
+                    },
+                    {
+                        "procedure_id": "91669a1c-646c-4c75-9ef5-daa85c5cd9c3",
+                        "procedure_name": "CT Scan",
+                        "cost": 1321.55
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "patient_id": "3b3f4ca8-5fe0-4930-b583-134d3ea2fed8",
+        "name": "Tina Cain",
+        "email": "jennifersanchez@brown.com",
+        "age": 43,
+        "registered_at": "2021-11-11T18:07:12",
+        "preferences": {
+            "contact_method": "email",
+            "notifications": {
+                "email": false,
+                "sms": true
+            }
+        },
+        "appointments": [
+            {
+                "appointment_id": "041b7d37-760d-498d-8087-c36ab542b24c",
+                "appointment_date": "2024-01-20T06:30:21",
+                "doctor_name": "Patricia Gentry",
+                "department": "Orthopedics",
+                "procedures": [
+                    {
+                        "procedure_id": "17d0f66c-1242-4200-85cb-e474ef8d2ea0",
+                        "procedure_name": "CT Scan",
+                        "cost": 1116.53
+                    },
+                    {
+                        "procedure_id": "b046f2b9-cf7a-4981-9c9c-0811b7136771",
+                        "procedure_name": "MRI",
+                        "cost": 1592.33
+                    },
+                    {
+                        "procedure_id": "84a9dbcb-9817-4027-b8cf-a2dd71f65d83",
+                        "procedure_name": "Physical Therapy",
+                        "cost": 1435.67
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "patient_id": "fff3d21a-b52b-4506-b5b2-85f9fbdbda84",
+        "name": "Henry Evans",
+        "email": "kgarcia@potts.com",
+        "age": 84,
+        "registered_at": "2020-03-01T03:09:19",
+        "preferences": {
+            "contact_method": "phone",
+            "notifications": {
+                "email": true,
+                "sms": true
+            }
+        },
+        "appointments": [
+            {
+                "appointment_id": "cada7e5f-b976-4a7b-a14e-5d7ff6954756",
+                "appointment_date": "2024-02-06T16:10:18",
+                "doctor_name": "Kyle Brown",
+                "department": "Neurology",
+                "procedures": [
+                    {
+                        "procedure_id": "2c2c7bf5-9aff-4859-9cc5-c7b534135837",
+                        "procedure_name": "Blood Test",
+                        "cost": 152.96
+                    },
+                    {
+                        "procedure_id": "8501243f-3d72-4371-ab8c-6c4f6fc3227d",
+                        "procedure_name": "MRI",
+                        "cost": 986.43
+                    },
+                    {
+                        "procedure_id": "8a882610-05d8-4558-9db8-926fff3df4b0",
+                        "procedure_name": "X-Ray",
+                        "cost": 1147.01
+                    }
+                ]
+            },
+            {
+                "appointment_id": "c0039b67-7a8e-4c4c-8e0d-ab8c304b8db0",
+                "appointment_date": "2024-04-29T19:30:21",
+                "doctor_name": "Christopher Stewart",
+                "department": "Oncology",
+                "procedures": [
+                    {
+                        "procedure_id": "53cbad1a-491f-48f2-b06c-6923bc48f2aa",
+                        "procedure_name": "X-Ray",
+                        "cost": 1977.55
+                    },
+                    {
+                        "procedure_id": "ff1bb032-52be-46a3-8efa-407df32e5975",
+                        "procedure_name": "Blood Test",
+                        "cost": 1826.15
+                    }
+                ]
+            },
+            {
+                "appointment_id": "76e0a0a9-f336-40d9-9b04-7626a3df63c9",
+                "appointment_date": "2024-11-19T07:53:02",
+                "doctor_name": "William Quinn",
+                "department": "Cardiology",
+                "procedures": [
+                    {
+                        "procedure_id": "b5e5ed2f-d9c1-42cc-9b43-d0cb4945d8fd",
+                        "procedure_name": "CT Scan",
+                        "cost": 1110.45
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "patient_id": "d27723ee-d3ab-423b-94ef-b6dde1ad559d",
+        "name": "Ralph Greene",
+        "email": "brianramirez@yahoo.com",
+        "age": 50,
+        "registered_at": "2020-11-27T07:15:27",
+        "preferences": {
+            "contact_method": "phone",
+            "notifications": {
+                "email": true,
+                "sms": false
+            }
+        },
+        "appointments": [
+            {
+                "appointment_id": "e2338004-bb73-4af3-b266-61d74001d65e",
+                "appointment_date": "2024-02-20T21:03:39",
+                "doctor_name": "David Lawson",
+                "department": "Cardiology",
+                "procedures": [
+                    {
+                        "procedure_id": "47dc90ad-fecd-4584-830d-b846dcbff71d",
+                        "procedure_name": "Physical Therapy",
+                        "cost": 1689.55
+                    },
+                    {
+                        "procedure_id": "f4dd62ed-da99-4e7f-ba3a-1e027b4f3e83",
+                        "procedure_name": "MRI",
+                        "cost": 1467.17
+                    }
+                ]
+            },
+            {
+                "appointment_id": "4724cf9c-13fd-4a13-9466-1cad737a98d6",
+                "appointment_date": "2024-08-23T08:31:17",
+                "doctor_name": "Michelle Hansen",
+                "department": "Oncology",
+                "procedures": [
+                    {
+                        "procedure_id": "5a2ee61b-3946-443d-bc2c-093856c4b76f",
+                        "procedure_name": "Physical Therapy",
+                        "cost": 1668.76
+                    },
+                    {
+                        "procedure_id": "f58dddc3-a967-47e7-8f7f-ba87cbc4ac3d",
+                        "procedure_name": "CT Scan",
+                        "cost": 307.31
+                    }
+                ]
+            },
+            {
+                "appointment_id": "1749a65e-f136-4cf8-9ec2-81060331deb4",
+                "appointment_date": "2024-06-01T16:29:57",
+                "doctor_name": "James Glenn",
+                "department": "Pediatrics",
+                "procedures": [
+                    {
+                        "procedure_id": "a454d9e7-5904-46a1-a73f-3d749b51a7a3",
+                        "procedure_name": "Physical Therapy",
+                        "cost": 298.21
+                    },
+                    {
+                        "procedure_id": "7b45946b-6dd0-42b2-b89a-06bb7c2fb53d",
+                        "procedure_name": "Physical Therapy",
+                        "cost": 1346.93
+                    },
+                    {
+                        "procedure_id": "9cae8963-b0bd-4b8c-bbec-15be78eefe93",
+                        "procedure_name": "Blood Test",
+                        "cost": 1110.44
+                    }
+                ]
+            },
+            {
+                "appointment_id": "9a6f0a66-7df4-48dd-b471-3c92dbe08bfc",
+                "appointment_date": "2024-10-27T02:15:05",
+                "doctor_name": "Ashley Henson",
+                "department": "Oncology",
+                "procedures": [
+                    {
+                        "procedure_id": "c1d4d06d-ebae-459c-a684-f3e1ef70e64a",
+                        "procedure_name": "MRI",
+                        "cost": 1830.6
+                    }
+                ]
+            },
+            {
+                "appointment_id": "ce651509-6fbb-4074-bb06-1c0ca3f667a8",
+                "appointment_date": "2024-02-21T08:18:32",
+                "doctor_name": "Wayne Rogers",
+                "department": "Orthopedics",
+                "procedures": [
+                    {
+                        "procedure_id": "818f1e58-ed44-43b3-84f4-a4efa76eef09",
+                        "procedure_name": "CT Scan",
+                        "cost": 262.95
+                    },
+                    {
+                        "procedure_id": "1feb723e-36e4-4430-8d5d-b2b057d55d9b",
+                        "procedure_name": "Blood Test",
+                        "cost": 1043.77
+                    },
+                    {
+                        "procedure_id": "01ea71a1-588b-4fbc-9d44-af52eecc35c3",
+                        "procedure_name": "X-Ray",
+                        "cost": 1456.44
+                    }
+                ]
+            }
+        ]
+    }
+]
